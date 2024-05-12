@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spatial Data In Postgresql
-published: true
+published: false
 ---
 
 Using PostGis.
