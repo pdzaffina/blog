@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spatial Data In SQL Server
-published: true
+published: false
 ---
 
 spatial data
