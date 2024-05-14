@@ -12,3 +12,5 @@ Many IT organizations struggle to deliver value to their customers because they 
 ### Contact me
 
 [peter@zaffina.net](mailto:peter@zaffina.net)
+
+[peter.zaffina.net](https://peter.zaffina.net)
