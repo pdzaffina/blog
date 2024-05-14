@@ -11,4 +11,4 @@ Many IT organizations struggle to deliver value to their customers because they 
 
 ### Contact me
 
-<img src="images/github.svg" width="50" height="50">[peter@zaffina.net](mailto:peter@zaffina.net)
+[peter@zaffina.net](mailto:peter@zaffina.net)
