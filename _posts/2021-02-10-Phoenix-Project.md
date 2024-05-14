@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Book Review: The Phoenix Project"
+published: true
+---
+
+
 ## "The Phoenix Project" by Gene Kim, Kevin Behr, and George Spafford
 
 The Phoenix Project is a novel that does an excellent job illustrating the challenges of IT operations and project management through an engaging narrative. The story follows the journey of Bill Palmer, an IT manager at the fictional company Parts Unlimited, as he is given the critical task of leading the Phoenix Project to untangle the company's IT mess and turn things around.
