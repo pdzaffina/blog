@@ -1,4 +1,8 @@
-
+---
+layout: post
+title: "Book Review: The Unicorn Project"
+published: true
+---
 
 After the success of "The Phoenix Project," Gene Kim returns with "The Unicorn Project," another engaging novel that drives home critical lessons about DevOps, site reliability engineering (SRE), and the importance of creating a culture of continual learning and improvement in IT organizations.
 
