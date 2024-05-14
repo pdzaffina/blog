@@ -14,6 +14,7 @@ It stands for:
 - **F**ollow through
 - **P**rogress
 - **P**roduction
+  
 By measuring myself using this simple tool I am able to refocus my efforts and frame what I need to do
 in simple steps.
 
