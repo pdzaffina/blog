@@ -115,7 +115,12 @@ img {
   max-width: none;
 }
 
-.date, .author {
+.date {
+  font-style: italic;
+  color: $gray;
+}
+
+.author {
   font-style: italic;
   color: $gray;
 }
