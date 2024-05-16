@@ -2,6 +2,7 @@
 layout: post
 title: Obligatory Post on Productivity
 published: true
+tags: productivity
 ---
 
 This is my obligatory post on productivity.
