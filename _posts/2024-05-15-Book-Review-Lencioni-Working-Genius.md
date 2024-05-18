@@ -11,3 +11,6 @@ the story part and then the theory part.
 
 looking forward to incorporating myblearnings from
 the book into my team at work.
+
+
+there is a part in the fable where Bull talks about teams of vps and divisions and approval for everything. i have been there. that really resonated with me.
