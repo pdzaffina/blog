@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book Review: The 6 Types of Working Genius"
-pyblished: false
+published: false
 ---
 
 just started the book for work. one of the things I like best
