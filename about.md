@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### Hi! I'm Peter Zaffina
-I help Native American Tribes who are Microsoft 365 or Oracle customers leverage their existing technology to improve outcomes for their members and associates.
+I help organizations who are Microsoft 365 or Oracle customers leverage their existing technology to improve outcomes for their members and associates.
 
 Many IT organizations struggle to deliver value to their customers because they focus on the wrong things. I emphasize delivering value to the business and the speed of delivery to provide solutions that work for frontline workers. Whenever possible I choose boring technology that enables the team to focus on value and not the latest buzzwords from MBAs.
 
