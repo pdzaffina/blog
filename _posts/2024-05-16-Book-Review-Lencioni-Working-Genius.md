@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Book Review: "The 6 Types of Working Genius"'
+title: "Book Review: <em>The 6 Types of Working Genius</em>"
 published: true
 ---
 
