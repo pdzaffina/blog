@@ -5,8 +5,6 @@ published: true
 tags: productivity
 ---
 
-This is my obligatory post on productivity.
-
 Every now and then I begin to feel like I'm getting bogged down in minor things and I don't feel 
 very productive. Often times I feel like I'm working hard, I just don't have anything to show for it. 
 At times like this I reach for a tool that my former Chief Warrant Officer CW2 Morgan taught me, ***F2P2***. 
