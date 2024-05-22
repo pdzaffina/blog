@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Takeaways from "The 6 Types of Working Genius"'
+title: "Takeaways from <em>The 6 Types of Working Genius</em>"
 published: false
 ---
 

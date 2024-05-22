@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Book Review: "The Phoenix Project"'
+title: "Book Review: <em>The Phoenix Project</em>"
 published: true
 ---
 
