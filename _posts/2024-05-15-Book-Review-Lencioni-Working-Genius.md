@@ -4,8 +4,6 @@ title: "Book Review: The 6 Types of Working Genius"
 published: true
 ---
 
-## My Thoughts on "The 6 Types of Working Genius"
-
 My company recently had us read the book "The 6 Types of Working Genius" by Patrick Lencioni as part of a professional development initiative. The concepts really resonated with me. One of the things I like best about my company is that it encourages us to continually read, learn and grow.
 
 At the heart of the book is the concept of the six "Working Geniuses" – the natural abilities that we all possess to varying degrees. These are:
