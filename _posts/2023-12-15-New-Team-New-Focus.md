@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Team New Focus: Embracing the Oracle Ecosystem: A New Adventure Awaits"
+title: "New Team New Focus: Embracing the Oracle Ecosystem - A New Adventure Awaits"
 published: true
 ---
 
