@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Lightweight Architecture Decisions
+title: "Lightweight Decisions, Lasting Impact: Documenting Your System's Architecture"
 published: true
 ---
-
-### Lightweight Decisions, Lasting Impact: Documenting Your System's Architecture
 
 In the fast-paced world of software development, every project is riddled with choices. From selecting 
 a database to adopting a specific framework, these architectural decisions lay the foundation for your 
