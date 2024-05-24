@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Immersing in the Oracle Cloud Experience at Blueprint 4D 2024
+title: The Oracle Cloud Experience at Blueprint 4D 2024
 published: true
 ---
 
