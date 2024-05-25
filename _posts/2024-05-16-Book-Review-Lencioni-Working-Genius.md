@@ -15,7 +15,7 @@ At the heart of the book is the concept of the six "Working Geniuses" – the na
 * **Enablement** - The ability to help others succeed.
 * **Tenacity** - The ability to persevere and push through challenges.
 
-The book's narrative follows a fictional executive he navigates workplace dynamics and discovers/ invents the Working Geniuses framework. Two characters that particularly resonated with me were Bull and Max.
+The book's narrative follows a fictional executive as he navigates workplace dynamics and discovers/ invents the Working Geniuses framework. Two characters that particularly resonated with me were Bull and Max.
 
 A couple parts of the book really struck a chord. First, the story about the character "Bull" having to get approval from all these different divisions for every decision. Having worked in corporate environments, I know how maddening and inefficient that matrix structure can be when people don't understand and appreciate each other's strengths.
 
