@@ -4,7 +4,7 @@ title: "New Team New Focus: Embracing the Oracle Ecosystem - A New Adventure Awa
 published: true
 ---
 
-As someone with a background in custom Python, PostgreSQL, web development, and data pipelines, I'm thrilled to embark on a new journey within the Oracle ecosystem. Joining an ERP enterprise group is an exciting challenge that I eagerly anticipate.
+As someone with a background in custom Python, PostgreSQL, web development, and data pipelines, I'm thrilled to embark on a new journey within the Oracle ecosystem at my current employer. Joining an ERP enterprise group is an exciting challenge that I eagerly anticipate.
 
 While my previous experiences revolved around smaller-scale projects, I'm now diving into the realm of large-scale ERP implementations. This transition presents an opportunity to expand my horizons and acquire invaluable knowledge in enterprise-level solutions.
 
