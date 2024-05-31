@@ -5,3 +5,5 @@ published: false
 ---
 
 Belong to tech vs own
+
+add piece about cathedral and bazar
