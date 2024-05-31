@@ -5,6 +5,8 @@ published: false
 ---
 
 
+<!-- https://smartpostgres.com/posts/pgconf-dev-vancouver-2024-day-1-notes/ -->
+
 Last Updated: May 29, 2024
 I’m in Vancouver this week at PGConf.dev, a conference is aimed at people who are either hacking on Postgres source code, or building extensions, or growing the community. I don’t really fit into any of those categories, but I’m here because I wanted to observe how Postgres is built.
 
