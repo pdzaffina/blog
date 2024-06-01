@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekly Links
-published: true
+published: false
 ---
 
 Here is what I'm reading this week.
