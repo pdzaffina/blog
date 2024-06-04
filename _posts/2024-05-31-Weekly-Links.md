@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Weekly Links
-published: false
+published: true
 ---
 
 Here is what I'm reading this week.
 
-* The Three Elements of Effective Action
-  * [https://itrevolution.com/articles/the-three-elements-of-effective-action](https://itrevolution.com/articles/the-three-elements-of-effective-action)
-  * I've been following the workings and writings of the people at [IT Revolution](https://itrevolution.com/articles/) for awhile now. They are the ones behind *The Phoenix Project* and *The Unicorn Project*.
-  Their work really resonates with me because of my prior experience as a Manufacturing Quality Manager and a former Lean Six sigma Black Belt. This article spectically hones in on getting work done.
+* Jano Bacon's Thoughts on Dealing With Overwhelm
+  * [https://www.jonobacon.com/2024/04/22/online-open-source-community-management-simplified-strategies/](https://www.jonobacon.com/2024/04/22/online-open-source-community-management-simplified-strategies/)
+  * I've been following Jano Bacon since he was at Ubuntu. I still think his first book *The Art of Community* is one of the best books on engaging with communities or your own workforce. This article diacusses how to deal with overwhelming task loads.
+  
 
 * Brent Ozar's writings on Postgres
   * [https://smartpostgres.com/posts/pgconf-dev-vancouver-2024-day-1-notes/](https://smartpostgres.com/posts/pgconf-dev-vancouver-2024-day-1-notes/)
