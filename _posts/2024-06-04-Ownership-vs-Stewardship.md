@@ -18,7 +18,7 @@ However, as my friend pointed out, this approach can lead to siloed thinking, te
 
 In contrast, many indigenous cultures have embraced a philosophy of belonging, where individuals see themselves as part of a larger whole, interconnected with the land, resources, and community. This worldview emphasizes stewardship, shared responsibility, and a deep respect for the interdependence of all things.
 
-My friend's insights resonated with me, as they aligned with the initial thought I had about collaborative governance and shared responsibility. They provided examples from the Chahta Anumpa grammar, where emotions and states are expressed relationally ("anger has me"), reflecting a more interconnected and collective way of thinking.
+My friend's insights resonated with me, as they aligned with the initial thought I had about collaborative governance and shared responsibility. They provided examples from the Chahta Anumpa (Language of the Choctaw People) grammar, where emotions and states are expressed relationally ("anger has me"), reflecting a more interconnected and collective way of thinking.
 
 ### Fostering Collaborative Governance
 
