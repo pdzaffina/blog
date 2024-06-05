@@ -1,0 +1,14 @@
+---
+layout: post
+title: x
+published: false
+---
+
+
+Here is what I'm reading this week.
+
+* Postgres Power!
+  * [TimescaleDB](https://www.timescale.com/) has a published a great blog post about how Postgres can be the best of both worlds for areas it serves. In that post there is a great graphic reproduced below.
+  * [https://www.timescale.com/blog/postgres-the-birdhorse-of-databases/[( https://www.timescale.com/blog/postgres-the-birdhorse-of-databases/)
+  ![Great graphic of all the ways Postgresql handles data challenges.](https://www.timescale.com/blog/content/images/2024/06/Postgres-for-Everything_databases.png)
+SOURCE: https://www.timescale.com/blog/postgres-the-birdhorse-of-databases/
