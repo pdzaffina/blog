@@ -7,3 +7,4 @@ permalink: /popular/
 These are a few of my most popular posts.
 
 - [Ownership vs. Stewardship](https://peter.zaffina.net/blog/Ownership-vs-Stewardship/)
+- [Obligatory post on productivity](https://peter.zaffina.net/blog/Productivity/)
