@@ -24,9 +24,7 @@ ensure that no potential solution is overlooked.
 
 Once you have a broad set of ideas, it's time to narrow down your options. In the 
 converging phase, critically evaluate the ideas generated during divergence and focus 
-on selecting the most feasible solutions. Just as artillery officers must communicate 
-effectively with infantry and armor units, translating technical ideas into accessible
-language for all stakeholders is crucial. This ensures everyone involved understands 
+on selecting the most feasible solutions. There are many different methods to help assess the situation - this will vary depending on the domain. It's important to communicate the key points of the decision and the decision itself. This ensures everyone involved understands 
 the chosen direction and can contribute effectively.
 
 ## Follow a Thought and Planning Process
