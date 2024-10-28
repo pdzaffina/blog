@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+These are a few of my most popular posts.
+
+<div class="posts">
+  {% for post in site.posts %}
+    {% if post.popular == true %}
+
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        
+    {% endif %}
+
+
+
+    </article>
+  {% endfor %}
+</div>
