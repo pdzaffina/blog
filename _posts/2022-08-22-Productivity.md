@@ -3,6 +3,7 @@ layout: post
 title: Obligatory Post on Productivity
 published: true
 tags: productivity
+popular: true
 ---
 
 Every now and then I begin to feel like I'm getting bogged down in minor things and I don't feel 
