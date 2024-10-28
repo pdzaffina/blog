@@ -2,7 +2,7 @@
 layout: post
 title: "Ditch the Tech Tunnel Vision: Why Your IT Team Needs Design Thinking"
 published: true
-popularr: true
+popular: true
 ---
 
 Recently I was reading a post by [Hal Wuertz](https://halwuertz.medium.com/) titled *[It’s Time to Re-Design How We Think](https://medium.com/age-of-awareness/its-time-to-re-design-how-we-think-8f03fcee12a7?)*. 
