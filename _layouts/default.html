@@ -14,6 +14,7 @@
     
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-6DP4BNTQLS"></script>
+    <script src="https://unpkg.com/feather-icons"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -40,7 +41,7 @@
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/popular">Popular Posts</a>
             <a href="{{ site.baseurl }}/about">About</a>
-            {% if site.footer-links.email %}<a href="mailto:{{ site.footer-links.email }}"><i class="svg-icon email"></i></a>{% endif %}
+            {% if site.footer-links.email %}<a href="mailto:{{ site.footer-links.email }}"><i data-feather="mail"></i></a>{% endif %}
             {% if site.footer-links.github %}<a href="https://github.com/{{ site.footer-links.github }}"><i class="svg-icon github"></i></a>{% endif %}
             {% if site.footer-links.linkedin %}<a href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}"><i class="svg-icon linkedin"></i></a>{% endif %}
           </nav>
