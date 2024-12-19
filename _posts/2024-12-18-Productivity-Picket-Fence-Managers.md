@@ -11,6 +11,8 @@ While individual contributors focus primarily on direct production work, manager
 
 The basic structure continues with ten four-hour periods per week, maintaining some key elements from the individual contributor framework:
 
+![Picture of Productivity Picket Fence for Managers](../images/ppf-mgr.png "Productivity Picket Fence for Managers")
+
 ### Personal Growth (1 Period - 10%)
 Managers maintain the same self-directed learning period. This might include:
 - Leadership skill development
