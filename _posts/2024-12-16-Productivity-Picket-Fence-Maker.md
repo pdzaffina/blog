@@ -11,7 +11,7 @@ Professional productivity isn't just about maximizing output—it's about creati
 ## The Basic Structure: Ten Four-Hour Periods
 
 
-![Picture of Productivity Picket Fence](../images/ppf-maker.png "Productivity Picket Fence for Makers")
+![Picture of Productivity Picket Fence for Makers](../images/ppf-maker.png "Productivity Picket Fence for Makers")
 
 The framework divides your workweek into ten distinct periods:
 - Two periods per day (morning and afternoon)
