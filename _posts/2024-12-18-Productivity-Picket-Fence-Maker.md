@@ -5,4 +5,4 @@ published: true
 ---
 
 
-![Picture of Productivity Picket Fence](/images/ppf-maker.png)
+![Picture of Productivity Picket Fence](../images/ppf-maker.png)
