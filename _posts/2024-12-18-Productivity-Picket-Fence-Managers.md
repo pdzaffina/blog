@@ -3,8 +3,6 @@ layout: post
 title: "Productivity Picket Fence: Manager Edition"
 published: true
 ---
-<!--Adapting the Productivity Picket Fence Framework for Managers: A Leadership Time Management Guide-->
-
 While individual contributors focus primarily on direct production work, managers need a modified approach to the ten-period framework that accounts for their unique responsibilities in people development and team leadership.
 
 ## The Core Foundation Remains
