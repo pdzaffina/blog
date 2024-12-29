@@ -2,6 +2,7 @@
 layout: post
 title: "Productivity Picket Fence: Maker Edition"
 published: true
+popular: true
 ---
 Professional productivity isn't just about maximizing output—it's about creating a sustainable balance between immediate work, continuous learning, and personal growth. This framework, called the Productivity Picket Fence (named for the visual pattern it creates when diagrammed), offers a straightforward approach to organizing your professional time.
 
