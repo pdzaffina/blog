@@ -4,7 +4,8 @@ title: "Productivity Picket Fence: Manager Edition"
 published: true
 popular: true
 ---
-While individual contributors focus primarily on direct production work, managers need a modified approach to the ten-period framework that accounts for their unique responsibilities in people development and team leadership.
+While individual contributors focus primarily on direct production work, managers need a modified approach to the ten-period framework that accounts for their unique responsibilities in people development and team leadership. This approach, combined with a block schedule for your team, will make the biggest difference
+to productivity from a time management perspective.
 
 ## The Core Foundation Remains
 
