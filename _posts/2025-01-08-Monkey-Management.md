@@ -3,9 +3,6 @@ layout: post
 title: "\"Who's Got the Monkey?\" - The 1974 Article That Still Nails Modern Management Problems"
 published: true
 ---
-
-# "Who's Got the Monkey?" - The 1974 Article That Still Nails Modern Management Problems
-
 I just revisited one of Harvard Business Review's most popular articles ever, ["Management Time: Who's Got the Monkey?"](https://hbr.org/1999/11/management-time-whos-got-the-monkey) 
 from 1974. Despite being written in an era of command-and-control management, its insights about time management and delegation feel surprisingly 
 fresh and relevant in today's workplace.
