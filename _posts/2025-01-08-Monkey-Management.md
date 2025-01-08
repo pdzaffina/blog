@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Who's Got the Monkey?" - The 1974 Article That Still Nails Modern Management Problems'
+title: "\"Who's Got the Monkey?\" - The 1974 Article That Still Nails Modern Management Problems"
 published: true
 ---
 
