@@ -6,9 +6,7 @@ popular: false
 ---
 We all want our teams to move faster and deliver more value to customers, but measuring and improving product velocity can be a complex challenge.  Enter **Core 4**, a new framework that aims to simplify this process and help teams achieve sustainable success.
 
-[Laura Tacho](https://substack.com/@lauratacho) has written a great [article](https://www.lennysnewsletter.com/p/introducing-core-4-the-best-way-to) on the Core 4 framework for measuring developers and product teams. I encourage you to read the whole thing but I thought I'd share my thoughts.
-
-Here are my key takeaways from Lenny's Newsletter introducing Core 4:
+[Laura Tacho](https://substack.com/@lauratacho) has written a great [article](https://www.lennysnewsletter.com/p/introducing-core-4-the-best-way-to) on the Core 4 framework for measuring developers and product teams. I encourage you to read the whole thing but here are my key takeaways from the piece.
 
 * **It unifies existing frameworks.** Core 4 brings together the best of DORA, SPACE, and DevEx, providing a comprehensive and practical approach to product velocity. 
 * **It focuses on four key dimensions:**
