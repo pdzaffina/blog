@@ -1,4 +1,8 @@
 ---
+layout: post
+title: "Implications of Oracle's new MCP server for Analysts"
+published: true
+popular: false
 
 ---
 
