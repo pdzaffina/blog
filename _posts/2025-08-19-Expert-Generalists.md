@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Expert Generalists
+published: true
 ---
 As an engineering manager, one of my biggest challenges isn't just shipping code—it's building a team that can adapt, innovate, and thrive. I've always optimized for traits like grit, a growth mindset, passion, and a love for learning. For a while, I wondered if this was tangential to the industry's push for deep specialization.
 Then I read Martin Fowler's article on the "Expert Generalist," and it all clicked. My approach wasn't tangential; it was the core of building a resilient team.
