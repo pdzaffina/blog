@@ -4,7 +4,7 @@ title: ​Are You Hiring for Skill or for Range?
 published: true
 ---
 As an engineering manager, one of my biggest challenges isn't just shipping code—it's building a team that can adapt, innovate, and thrive. I've always optimized for traits like grit, a growth mindset, passion, and a love for learning. For a while, I wondered if this was tangential to the industry's push for deep specialization.
-Then I read Martin Fowler's article on the "Expert Generalist," and it all clicked. My approach wasn't tangential; it was the core of building a resilient team.
+Then I read Martin Fowler's article on the "[Expert Generalis](https://martinfowler.com/articles/expert-generalist.html)," and it all clicked. My approach wasn't tangential; it was the core of building a resilient team.
 ### The Expert Generalist in Action
 Fowler defines the Expert Generalist as someone who pairs deep expertise in one area with a broad understanding of others. They are not just specialists; they are polymaths in their domain. This is the engineer who deeply understands back-end systems but can also speak the language of product design, data science, and user experience. This isn't a new concept, but Fowler gives us a framework to recognize and nurture it.
 This model directly validates the very traits I screen for:
