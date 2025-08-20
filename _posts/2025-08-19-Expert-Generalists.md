@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Expert Generalists
+title: ​Are You Hiring for Skill or for Range?
 published: true
 ---
 As an engineering manager, one of my biggest challenges isn't just shipping code—it's building a team that can adapt, innovate, and thrive. I've always optimized for traits like grit, a growth mindset, passion, and a love for learning. For a while, I wondered if this was tangential to the industry's push for deep specialization.
