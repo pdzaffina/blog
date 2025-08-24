@@ -24,5 +24,5 @@ It’s clear now that the very traits I value - grit, growth, and passion - are 
 
 <details>
 <summary>Significant Revisions</summary>
-Originally published August 19th, 2025
+Originally published {{ page.date | date: "%B %e, %Y" }}
 </details>
