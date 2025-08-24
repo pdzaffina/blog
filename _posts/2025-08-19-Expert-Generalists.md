@@ -22,3 +22,7 @@ As a manager, this gives me a new lens for talent. I'm not just looking for a "J
 
 It’s clear now that the very traits I value - grit, growth, and passion - are not tangential. They are the essential building blocks of the expert generalist. They are the key to building teams that don't just solve today's problems but can also pivot to tackle tomorrow's unknowns.
 
+<details>
+<summary>Significant Revisions</summary>
+Originally published August 19th, 2025
+</details>
