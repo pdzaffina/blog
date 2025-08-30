@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 
-The Power of a Shared Language: What Concerts Can Teach Us About Building Great Software
+title: "The Power of a Shared Language: What Concerts Can Teach Us About Building Great Software"
 published: true
 ---
 
