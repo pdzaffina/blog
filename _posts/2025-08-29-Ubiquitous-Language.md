@@ -34,4 +34,4 @@ The next time you're about to start a new software project, don't just ask about
 <details>
 <summary>Significant Revisions</summary>
 Originally published {{ page.date | date: "%B %e, %Y" }}
-<
+</details>
