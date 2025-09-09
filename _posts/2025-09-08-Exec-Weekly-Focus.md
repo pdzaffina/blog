@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Blueprint for Engineering Leadership: The \"CTO's Perfect Week\""
-publish: true
+published: true
 ---
 
 As an executive engineering leader, are you constantly firefighting, with little time to focus on strategic, long-term goals? Etienne de Bruin, the author of the popular "CTO's Perfect Week" framework, believes there's a better way. This incredible system, developed by de Bruin and highlighted on the [7CTOs blog](https://7ctos.com/blog), provides a powerful blueprint for CTOs to shift their focus from being hands-on coders to strategic leaders.
