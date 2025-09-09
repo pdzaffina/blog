@@ -17,3 +17,9 @@ The "CTO's Perfect Week" proposes a simple yet effective structure where each da
  * **Friendship Fridays:** Build relationships with the C-suite and your professional network.
 
 This framework is a brilliant guide for any engineering leader looking to move beyond the day-to-day chaos and build a stronger, more strategic organization. This insightful plan is the creation of Etienne de Bruin, and is well worth a read.
+
+
+<details>
+<summary>Significant Revisions</summary>
+Originally published {{ page.date | date: "%B %e, %Y" }}
+</details>
