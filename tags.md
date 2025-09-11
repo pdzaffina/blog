@@ -4,8 +4,6 @@ title: Tags
 permalink: /tags/
 ---
 
-### Tags
-
 {% for tag in site.tags %}
   <h2><a href="#{{ tag | first | slugify }}">{{ tag | first }}</a></h2>
   <ul>
