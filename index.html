@@ -15,15 +15,6 @@ layout: page
         {{ post.excerpt }}
       </div>
 
-      {% if page.tags %}
-      <div class="post-tags">
-        <strong>Tags:</strong>
-        {% for tag in page.tags %}
-        <a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
-        {% endfor %}
-      </div>
-      {% endif %}
-
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
