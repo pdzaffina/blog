@@ -3,6 +3,10 @@ layout: post
 title: "Ownership vs. Belonging: Rethinking Our Relationship with Services and Products"
 published: true
 popular: true
+tags:
+  - Product Management
+  - Ownership
+  - Services
 ---
 
 Recently, I found myself grappling with the question of ownership in the context of our organizational processes and responsibilities. During a presentation, the question "Who owns this process?" struck a chord with me, and I was immediately drawn to the thought that "We all do." This sentiment resonated with the concept of collaborative governance and shared responsibility, which seemed to align more closely with traditional indigenous philosophies than the individualistic notions of ownership prevalent in Western culture.
