@@ -2,6 +2,11 @@
 layout: post
 title: "Navigating Uncertainty: The Art of Quick, Informed Decisions in Business"
 published: true
+tags:
+  - Business
+  - Decision Making
+  - Strategy
+  - Leadership
 ---
 
 In both military and business settings, making timely decisions without having 
