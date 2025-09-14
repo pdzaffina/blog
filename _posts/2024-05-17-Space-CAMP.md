@@ -2,6 +2,11 @@
 layout: post
 title: Space Camp and Their Approach to Software Development
 published: true
+tags:
+  - Software Development
+  - Space Camp
+  - Methodology
+  - Process
 ---
 
 Recently I've been studying how the Department of Defense has turned to agile software development practices to transform their software accuisition process to get more value faster. Two groups specifically, Kessel Run from the U.S. Air Force and SpaceCAMP from the Space Force have really embraced the methods and are seeing great results.
