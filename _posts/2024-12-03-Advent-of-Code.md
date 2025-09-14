@@ -2,6 +2,10 @@
 layout: post
 title: "Advent of Code: Uniting Developers in a Festive Coding Challenge"
 published: true
+tags:
+  - Advent of Code
+  - Coding Challenge
+  - Community
 ---
 
 As the holiday season approaches, developers worldwide eagerly anticipate the annual Advent of Code challenge. This unique event, running from December 1st to 25th, 
