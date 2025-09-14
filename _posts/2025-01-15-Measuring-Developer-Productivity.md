@@ -3,6 +3,10 @@ layout: post
 title: Thoughts on the Core 4 Developer Productivity Framework
 published: true
 popular: false
+tags:
+  - Developer Productivity
+  - Frameworks
+  - Software Development
 ---
 We all want our teams to move faster and deliver more value to customers, but measuring and improving product velocity can be a complex challenge.  Enter **Core 4**, a new framework that aims to simplify this process and help teams achieve sustainable success.
 
