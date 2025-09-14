@@ -2,6 +2,11 @@
 layout: post
 title: Unleashing the Power of pg_vector in PostgreSQL
 published: true
+tags:
+  - PostgreSQL
+  - Databases
+  - pg_vector
+  - Extensions
 ---
 
 If you're working with PostgreSQL and dealing with large text datasets, you've likely encountered challenges in performing efficient full-text searches or finding similarities between documents. Fortunately, PostgreSQL offers a powerful extension called `pg_vector` that can significantly enhance your text processing capabilities. In this blog post, we'll explore the benefits of `pg_vector` and how you can leverage it to supercharge your text-based operations.
