@@ -2,6 +2,10 @@
 layout: post
 title: "New Team New Focus: Embracing the Oracle Ecosystem - A New Adventure Awaits"
 published: true
+tags:
+  - Oracle
+  - Career Change
+  - Ecosystem
 ---
 
 As someone with a background in custom Python, PostgreSQL, web development, and data pipelines, I'm thrilled to embark on a new journey within the Oracle ecosystem at my current employer. Joining an ERP enterprise group is an exciting challenge that I eagerly anticipate.
