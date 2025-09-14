@@ -2,7 +2,11 @@
 layout: post
 title: "PostgreSQL's Time-Series Capabilities Grow with Tembo's pg_timeseries Extension"
 published: true
-tag: Postgesql
+tags: 
+  - PostgreSQL
+  - Databases
+  - Time-Series
+  - Extensions
 ---
 
 Tembo has [launched](https://tembo.io/blog/pg-timeseries) an exciting new open-source PostgreSQL extension called `pg_timeseries`. As a long-time PostgreSQL enthusiast and industry professional, I'm thrilled to see innovations like this that further solidify PostgreSQL's position as a leading database platform.
