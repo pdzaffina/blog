@@ -2,6 +2,11 @@
 layout: post
 title: "The Power of a Shared Language: What Concerts Can Teach Us About Building Great Software"
 published: true
+tags:
+  - Software Development
+  - Teamwork
+  - Communication
+  - Culture
 ---
 
 Recently I was a volunteer on a team helping to setup the stage for a concert. As people buzzed around, moving lights, setting up speakers, and taping down cables, I heard a flurry of phrases I'd never heard before: "front of house," "backstage," "stage left," "upstage." I felt lost at first. But as I listened, I realized that for the crew, this wasn't jargon; it was a ubiquitous language.
