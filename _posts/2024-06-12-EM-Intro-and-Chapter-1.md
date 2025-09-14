@@ -2,6 +2,11 @@
 layout: post
 title: "Chapter by Chapter: <em>The Effective Manager</em> by Mark Horstman, Kate Braun, and Sarah Sentes - Intro & Chapter 1"
 published: true
+tags:
+  - Book Review
+  - Book Study
+  - Management
+  - Leadership
 ---
 
 I'm currently reading *The Effective Manager* with my group at work. To keep things moving and not overburden the group we'll be taking it chapter by chapter.
