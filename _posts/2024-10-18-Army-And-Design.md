@@ -2,6 +2,11 @@
 layout: post
 title: "Translating Artillery to Innovation: Human-Centered Design in Action"
 published: true
+tags:
+  - Human-Centered Design
+  - Innovation
+  - Problem Solving
+  - Design
 ---
 
 During my time as a Fire Support Officer in the Army, I picked up some important lessons 
