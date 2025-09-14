@@ -2,7 +2,7 @@
 layout: post
 title: Obligatory Post on Productivity
 published: true
-tags: productivity
+tags: Productivity
 popular: true
 ---
 
