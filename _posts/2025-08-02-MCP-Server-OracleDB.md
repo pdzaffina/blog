@@ -3,7 +3,12 @@ layout: post
 title: "Implications of Oracle's new MCP server for Analysts"
 published: true
 popular: false
-
+tags:
+  - Oracle
+  - MCP Server 
+  - Technology
+  - Analytics
+  - IT
 ---
 
 I'm currently experimenting with the new MCP Server for Oracle Database. This integration of the Model Context Protocol into Oracle's tools is very powerful, allowing AI assistants to interact with the database directly.
