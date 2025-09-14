@@ -2,6 +2,11 @@
 layout: post
 title: The Oracle Cloud Experience at Blueprint 4D 2024
 published: true
+tags:
+  - Oracle
+  - Cloud
+  - Event
+  - Blueprint 4D
 ---
 
 As an attendee of the Blueprint 4D conference, I had the opportunity to delve into the world of Oracle Cloud applications, specifically Oracle Fusion Cloud HCM and ERP. The event provided a comprehensive platform for learning, networking, and gaining real-life insights from fellow Oracle Cloud customers.
