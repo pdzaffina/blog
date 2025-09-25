@@ -5,10 +5,12 @@ permalink: /tags/
 ---
 
 {% comment %}
-    We use 'sort: "0"' to explicitly sort by the first item (index 0) 
-    in each tag pair, which is the tag name.
+    1. 'to_a' converts the site.tags hash into an array of arrays (e.g., [["tag-name", [posts...]], ...]).
+    2. 'sort: "0"' then sorts that array alphabetically by the string at index 0 (the tag name).
 {% endcomment %}
-{% for tag in site.tags | sort: "0" %}
+{% assign sorted_tags = site.tags | sort: "0" | to_a %}
+
+{% for tag in sorted_tags %}
   {% assign tag_name = tag | first %}
   {% assign tag_slug = tag_name | slugify %}
 
