@@ -4,7 +4,11 @@ title: Tags
 permalink: /tags/
 ---
 
-{% for tag in site.tags | sort %}
+{% comment %}
+    We use 'sort: "0"' to explicitly sort by the first item (index 0) 
+    in each tag pair, which is the tag name.
+{% endcomment %}
+{% for tag in site.tags | sort: "0" %}
   {% assign tag_name = tag | first %}
   {% assign tag_slug = tag_name | slugify %}
 
