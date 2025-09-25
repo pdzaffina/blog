@@ -21,7 +21,7 @@ permalink: /tags/
     {% comment %}
         We keep the inner loop as is, using tag_data[1] for the posts array.
     {% endcomment %}
-    {% for post in tag_data[1] | sort: "date" %}
+    {% for post in tag_data[1] %}
       <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
