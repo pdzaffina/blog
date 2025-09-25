@@ -5,16 +5,20 @@ permalink: /tags/
 ---
 
 {% comment %}
-    We use 'sort: "0"' to explicitly sort by the first item (index 0) 
-    in each tag pair, which is the tag name.
+    The 'sort' filter applied to a hash sorts by the key (tag name).
+    This is the most stable and compatible way to alphabetically sort tags 
+    in older Jekyll versions like those used by GitHub Pages.
 {% endcomment %}
-{% for tag in site.tags | sort: "0" %}
-  {% assign tag_name = tag | first %}
+{% for tag_data in site.tags | sort %}
+  {% assign tag_name = tag_data | first %}
   {% assign tag_slug = tag_name | slugify %}
 
   <h2 id="{{ tag_slug }}"><a href="#{{ tag_slug }}">{{ tag_name }}</a></h2>
   <ul>
-    {% for post in tag[1] %}
+    {% comment %}
+        We keep the inner loop as is, using tag_data[1] for the posts array.
+    {% endcomment %}
+    {% for post in tag_data[1] %}
       <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
