@@ -9,7 +9,10 @@ permalink: /tags/
     This is the most stable and compatible way to alphabetically sort tags 
     in older Jekyll versions like those used by GitHub Pages.
 {% endcomment %}
-{% for tag_data in site.tags | sort %}
+
+{% assign tags = site.tags | sort %}
+
+{% for tag_data in tags %}
   {% assign tag_name = tag_data | first %}
   {% assign tag_slug = tag_name | slugify %}
 
