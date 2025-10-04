@@ -6,7 +6,7 @@ tags:
   - Productivity Series
 ---
 
-In my previous posts, we established the [**Productivity Picket Fence**](https://peter.zaffina.net/blog/tags/#productivity-series) framework to ensure a sustainable work rhythm. The ten four-hour periods—70% Production, 20% Organizational Learning, and 10% Personal Growth—provide the *structure* for a productive week.
+In my previous posts, we established the [**Productivity Picket Fence**](https://peter.zaffina.net/blog/tags/#productivity-series) framework to ensure a sustainable work rhythm. The ten four-hour periods (70% Production, 20% Organizational Learning, and 10% Personal Growth) provide the *structure* for a productive week.
 
 But as a manager, structure alone doesn't solve the most common challenge: **the endless stream of new requests and the inevitable question, "What is your team’s capacity for starting X?"**
 
@@ -18,7 +18,7 @@ Based on years of observation, I’ve found that the ideal limit for production 
 
 This limit is deliberate and based on balance:
 
-* **Fewer than two active priorities** means that when an employee hits a roadblock on their single task—perhaps waiting for a code review, a data dependency, or stakeholder feedback—they have no meaningful work to pivot to, resulting in wasted time and idle hands.
+* **Fewer than two active priorities** means that when an employee hits a roadblock on their single task (perhaps waiting for a code review, a data dependency, or stakeholder feedback) they have no meaningful work to pivot to, resulting in wasted time and idle hands.
 * **More than two active priorities** means the employee is juggling too many balls. Having five projects partially finished is not productive; it's simply a collection of future debt. The goal of the Production Picket Fence is completion and delivery. By limiting focus to P1 (the absolute most important) and P2 (the important backup), you ensure sufficient forward momentum on the most critical work.
 
 ### The Daily Work Hierarchy
