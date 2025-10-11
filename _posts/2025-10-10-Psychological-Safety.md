@@ -16,15 +16,19 @@ In high-stakes technical environments, these toxic behaviors create friction and
 
 #### Stove-Piping and Silos: The Knowledge Blockade
 
-When communication breaks down and people intentionally hoard information, you get stove pipe comms. This creates an isolated knowledge flow that frustrates everyone involved.
+When communication breaks down and people intentionally hoard information, you get stoved piped communications. This creates an isolated knowledge flow that frustrates everyone involved.
  * The Effect: IT is slowed by unnecessary knowledge lag. Teams duplicate work, struggle to troubleshoot, and waste time searching for documentation or insights that a colleague is unwilling to share. This quickly halts the velocity required for agile delivery.
-Power Trips, Jealousy, and Possessiveness
+
+#### Power Trips, Jealousy, and Possessiveness
+
 Conflict driven by ego, possessiveness over code, or a refusal to invest in relationships forces teams into a self-centered mindset. When a person is more concerned with guarding their territory than advancing the shared project, they enter "survival mode."
- * The Effect: You lose shared responsibility and mutual respect (Source 1.1). Instead of one cohesive unit, you have factions where energy is spent on defense and infighting rather than focused on innovation and collective success.
-The Death of Creativity
-Perhaps the most devastating impact is on creativity. Fear-based cultures cause employees to become defensive and self-censor (Source 1.2). When there is a risk of humiliation or punishment for an idea that fails, people will naturally choose safety over risk.
+ * The Effect: You lose shared responsibility and mutual respect. Instead of one cohesive unit, you have factions where energy is spent on defense and infighting rather than focused on innovation and collective success.
+
+#### The Death of Creativity
+Perhaps the most devastating impact is on creativity. Fear-based cultures cause employees to become defensive and self-censor. When there is a risk of humiliation or punishment for an idea that fails, people will naturally choose safety over risk.
  * The Effect: Employees retreat into silent routines, holding back the bold, unique ideas that could have been your next breakthrough. Innovation dies in an atmosphere where vulnerability is punished.
-The Foundation for Innovation: Psychological Safety
+
+#### The Foundation for Innovation: Psychological Safety
 The antidote to covert conflict is psychological safety, a concept championed by researchers like Amy Edmondson. Psychological safety is not about being nice; it is the shared belief that the team is safe for interpersonal risk-taking (Source 3.3).
 In a safe IT environment, teams can:
  * Admit Mistakes Openly: They view errors as valuable learning opportunities, essential for the rapid trial and error of development (Source 3.1).
