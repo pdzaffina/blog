@@ -29,17 +29,19 @@ Perhaps the most devastating impact is on creativity. Fear-based cultures cause 
  * The Effect: Employees retreat into silent routines, holding back the bold, unique ideas that could have been your next breakthrough. Innovation dies in an atmosphere where vulnerability is punished.
 
 #### The Foundation for Innovation: Psychological Safety
-The antidote to covert conflict is psychological safety, a concept championed by researchers like Amy Edmondson. Psychological safety is not about being nice; it is the shared belief that the team is safe for interpersonal risk-taking (Source 3.3).
+The antidote to covert conflict is psychological safety. Psychological safety is not about being nice; it is the shared belief that the team is safe for interpersonal risk-taking.
 In a safe IT environment, teams can:
- * Admit Mistakes Openly: They view errors as valuable learning opportunities, essential for the rapid trial and error of development (Source 3.1).
- * Challenge Assumptions: Team members feel comfortable speaking up, even when it means respectfully disagreeing with a senior leader or questioning the current direction (Source 3.4).
- * Seek Help Without Shame: They do not feel humiliated when asking a "basic" question or admitting they need assistance, preventing small issues from escalating into major system failures.
+ * **Admit Mistakes Openly:** They view errors as valuable learning opportunities, essential for the rapid trial and error of development.
+ * **Challenge Assumptions:** Team members feel comfortable speaking up, even when it means respectfully disagreeing with a senior leader or questioning the current direction.
+ * **Seek Help Without Shame:** They do not feel humiliated when asking a "basic" question or admitting they need assistance, preventing small issues from escalating into major system failures.
 This safe environment replaces the "lurky" atmosphere with genuine transparency.
-Leadership’s Mandate: Prevention, Alignment, and Cultivation
+
+#### Leadership’s Mandate: Prevention, Alignment, and Cultivation
+
 Leaders must move beyond conflict resolution to become architects of a safe and aligned culture.
-A. Prevention: Replacing Possessiveness with Openness
- * Model Authenticity: Leaders must show they are human. Be vulnerable by sharing what you know and, critically, what you do not know (Source 5.1). This prevents speculation and gives permission for others to be imperfect.
- * Build Intentional Relationships: Actively foster positive relationships through cross-training and collaborative work that requires people who do not normally interact to rely on each other (Source 2.1).
+**A. Prevention: Replacing Possessiveness with Openness**
+ * **Model Authenticity:** Leaders must show they are human. Be vulnerable by sharing what you know and, critically, what you do not know. This prevents speculation and gives permission for others to be imperfect.
+ * **Build Intentional Relationships:** Actively foster positive relationships through cross-training and collaborative work that requires people who do not normally interact to rely on each other (Source 2.1).
  * Refuse the Rumor Mill: As a leader, you must stop the feed. Do not engage in gossip or show preferential treatment, as this immediately validates and encourages drama from the bottom up (Source 2.1).
 B. Ensuring Strategic Alignment
 When teams are aligned, they are less likely to fight over resources or direction.
