@@ -39,6 +39,7 @@ This safe environment replaces the "lurky" atmosphere with genuine transparency.
 #### Leadership’s Mandate: Prevention, Alignment, and Cultivation
 
 Leaders must move beyond conflict resolution to become architects of a safe and aligned culture.
+
 **A. Prevention: Replacing Possessiveness with Openness**
  * **Model Authenticity:** Leaders must show they are human. Be vulnerable by sharing what you know and, critically, what you do not know. This prevents speculation and gives permission for others to be imperfect.
  * **Build Intentional Relationships:** Actively foster positive relationships through cross-training and collaborative work that requires people who do not normally interact to rely on each other.
