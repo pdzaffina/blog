@@ -10,11 +10,11 @@ The pressure for IT teams to deliver speed, efficiency, and groundbreaking innov
 
 This isn't about petty office gossip. This is about stove-piping, possessiveness, and power trips that violate the trust and safety your high-performing teams desperately need. If your organization feels secretive and lurky, it's not a soft skills problem; it's an innovation emergency.
 
-## The Culture of Conflict: How Specific Behaviors Kill Progress
+### The Culture of Conflict: How Specific Behaviors Kill Progress
 
 In high-stakes technical environments, these toxic behaviors create friction and slow progress in tangible ways.
 
-### Stove-Piping and Silos: The Knowledge Blockade
+#### Stove-Piping and Silos: The Knowledge Blockade
 
 When communication breaks down and people intentionally hoard information, you get stove pipe comms. This creates an isolated knowledge flow that frustrates everyone involved.
  * The Effect: IT is slowed by unnecessary knowledge lag. Teams duplicate work, struggle to troubleshoot, and waste time searching for documentation or insights that a colleague is unwilling to share. This quickly halts the velocity required for agile delivery.
