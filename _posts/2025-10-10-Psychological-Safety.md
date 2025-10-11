@@ -1,18 +1,21 @@
 ---
 layout: post
-title: t
+title: "From Crisis to Collaboration: Leading IT Out of Covert Conflict and Power Trips"
 published: false
 tags:
+  - Leadership
+  - Management
 ---
-I think Option 3 is the strongest choice, as it directly addresses both the negative state ("Crisis") and the solution ("Leading Out") while incorporating your key terms.
-Title Chosen: From Collaboration to Crisis: Leading IT Out of Covert Conflict and Power Trips
-Here is the complete blog post draft, written according to the approved outline and title, and without using any em dashes.
-From Collaboration to Crisis: Leading IT Out of Covert Conflict and Power Trips
 The pressure for IT teams to deliver speed, efficiency, and groundbreaking innovation has never been higher. Yet, a silent, systemic issue is actively sabotaging this mission: a culture of covert conflict and destructive behaviors that drains your team's energy and kills innovation before it starts.
+
 This isn't about petty office gossip. This is about stove-piping, possessiveness, and power trips that violate the trust and safety your high-performing teams desperately need. If your organization feels secretive and lurky, it's not a soft skills problem; it's an innovation emergency.
-The Culture of Conflict: How Specific Behaviors Kill Progress
+
+## The Culture of Conflict: How Specific Behaviors Kill Progress
+
 In high-stakes technical environments, these toxic behaviors create friction and slow progress in tangible ways.
-Stove-Piping and Silos: The Knowledge Blockade
+
+### Stove-Piping and Silos: The Knowledge Blockade
+
 When communication breaks down and people intentionally hoard information, you get stove pipe comms. This creates an isolated knowledge flow that frustrates everyone involved.
  * The Effect: IT is slowed by unnecessary knowledge lag. Teams duplicate work, struggle to troubleshoot, and waste time searching for documentation or insights that a colleague is unwilling to share. This quickly halts the velocity required for agile delivery.
 Power Trips, Jealousy, and Possessiveness
