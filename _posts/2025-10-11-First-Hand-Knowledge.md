@@ -7,7 +7,7 @@ tags:
   - Management
 ---
 
-In Information Technology, the focus is rightly on successful outcomes: delivering projects, managing budgets, and driving business value. Yet, achieving these goals in an increasingly complex technical landscape requires a specific kind of wisdom at the top, what I call "firsthand knowledge".
+In Information Technology, the focus is rightly on successful outcomes: delivering products & services, managing budgets, and driving business value. Yet, achieving these goals in an increasingly complex technical landscape requires a specific kind of wisdom at the top, what I call "firsthand knowledge".
 
 I’ve spent my career working deep within the technical systems that power our organizations. Like many in technical roles, I’ve observed firsthand how effective leadership often hinges not just on management skills, but on a leader's foundational understanding of the work itself.
 
