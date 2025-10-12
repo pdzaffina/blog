@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Essential Role of First Hand Knowledge in Modern IT Leadership"
-published: false
+published: true
 tags:
   - Leadership
   - Management
