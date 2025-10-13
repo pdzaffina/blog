@@ -7,7 +7,7 @@ tags:
   - Management 
 ---
 
-I just read a great article by Will Larson on Moving from an orchestration-heavy to leadership-heavy management role.
+I just read a great article by Will Larson on "Moving from an orchestration-heavy to leadership-heavy management role."
 
 My "aha" moment: so many leaders lack the ability to do all six of the steps—Problem Discovery, Problem Selection, Solution Discovery, Solution Selection, Execution, and Ongoing Revision. Most get stuck focusing only on orchestration, missing the critical upfront leadership work.
 
