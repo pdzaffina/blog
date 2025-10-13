@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Moving from an orchestration-heavy to leadership-heavy management role"
-published: false
+title: "Moving From an Orchestration-heavy to Leadership-heavy Management Role"
+published: true
 tags:
   - Leadership
   - Management 
