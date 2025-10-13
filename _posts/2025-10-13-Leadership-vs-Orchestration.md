@@ -15,4 +15,4 @@ This raises two crucial questions: Would you even know if you lacked those skill
 
 If you grew up in an environment where these core leadership responsibilities were always handled by someone else, how do you learn to develop that leadership "muscle" to run the full core loop?
 
-Read the full article here: 
+Read the full article here: https://lethain.com/orchestration-heavy-leadership-heavy/
