@@ -3,7 +3,7 @@ layout: post
 title: "Demystifying AI Strategy: You're Further Along Than You Think"
 published: true
 tags:
-  - Artificial intelligence
+  - Artificial Intelligence
   - Strategy
 ---
 
