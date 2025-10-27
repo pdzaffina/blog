@@ -14,7 +14,7 @@ goals and practical execution that resonates with leadership.
 
 The good news is, you're probably much further along than you realize. A robust AI strategy isn't always about groundbreaking, 
 custom-built models from day one. Often, it’s about leveraging existing capabilities, solidifying foundational practices, and 
-strategically building momentum. As Teddy Roosevelt wisely put it, "Do what you can, with what you've got, where you are." This 
+strategically building momentum. As Squire Bill Widener wisely put it, "Do what you can, with what you've got, where you are." This 
 timeless advice applies remarkably well to establishing a pragmatic AI path.
 
 From my experience, a practical and achievable AI journey for many organizations often looks like this:
