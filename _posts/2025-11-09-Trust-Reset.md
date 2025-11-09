@@ -1,4 +1,4 @@
-9---
+---
 layout: post
 title: Executing a Trust Reset in the Wake of Organizational Change
 published: true
