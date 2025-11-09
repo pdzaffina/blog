@@ -1,4 +1,4 @@
----
+9---
 layout: post
 title: Executing a Trust Reset in the Wake of Organizational Change
 published: true
@@ -11,7 +11,7 @@ You know the feeling: the rare, golden state of a truly high-performing peer gro
 
 But what happens when the necessary, high-level organizational changes don't quite go as planned?
 
-Recently, our team navigated a leadership transition that, while essential for the business, introduced some communication gaps and unintended confusion. A planned shift, intended to be smooth, was instead characterized by long periods of silence, leading to some unsettling ambiguity for the team. This kind of uncertainty -_-_- where information is delayed or unclear -_-_- can unfortunately cause a dip in confidence and psychological safety, even when the final outcome or the new leadership (like our great new boss) is positive.
+Recently, our team navigated a leadership transition that, while essential for the business, introduced some communication gaps and unintended confusion. A planned shift, intended to be smooth, was instead characterized by long periods of silence, leading to some unsettling ambiguity for the team. This kind of uncertainty -_-_- [1] where information is delayed or unclear -_-_- can unfortunately cause a dip in confidence and psychological safety, even when the final outcome or the new leadership (like our great new boss) is positive.
 
 It's completely understandable to feel a sense of loss or a "bad taste" when a change process undermines the high-trust environment you worked so hard to build. The challenge now is to execute a strategic Trust Reset. This focuses our energy on agency and rebuilding the stability of our high-performing core.
 
@@ -41,3 +41,7 @@ Finally, protect your energy and focus by adjusting personal expectations for th
  * **Find Fulfillment Internally:** Your primary source of job satisfaction should now be anchored in the quality of your work, the success of your peer group, and the value you deliver to your customers; not solely on effective management from above. Your success is internally driven.
 
 A trust reset is about pragmatism and resilience. It’s about accepting the disappointment, isolating the source of the breakdown, and intensely focusing your energy on protecting and amplifying the high-performing core of your immediate team. This is the only way to successfully maintain your momentum through organizational turbulence.
+
+
+
+1: I'm reclaiming the use of emdashes from the machines. I used them before but have stopped due to the confusion surrounding LLMs using them as well. I'll add "-_-_-" to differentiate my use vs. the machine's.
