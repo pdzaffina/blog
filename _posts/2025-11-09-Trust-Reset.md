@@ -11,7 +11,7 @@ You know the feeling: the rare, golden state of a truly high-performing peer gro
 
 But what happens when the necessary, high-level organizational changes don't quite go as planned?
 
-Recently, our team navigated a leadership transition that, while essential for the business, introduced some communication gaps and unintended confusion. A planned shift, intended to be smooth, was instead characterized by long periods of silence, leading to some unsettling ambiguity for the team. This kind of uncertainty -_- where information is delayed or unclear -_- can unfortunately cause a dip in confidence and psychological safety, even when the final outcome or the new leadership (like our great new boss) is positive.
+Recently, our team navigated a leadership transition that, while essential for the business, introduced some communication gaps and unintended confusion. A planned shift, intended to be smooth, was instead characterized by long periods of silence, leading to some unsettling ambiguity for the team. This kind of uncertainty -_-_- where information is delayed or unclear -_-_- can unfortunately cause a dip in confidence and psychological safety, even when the final outcome or the new leadership (like our great new boss) is positive.
 
 It's completely understandable to feel a sense of loss or a "bad taste" when a change process undermines the high-trust environment you worked so hard to build. The challenge now is to execute a strategic Trust Reset. This focuses our energy on agency and rebuilding the stability of our high-performing core.
 
@@ -19,7 +19,7 @@ It's completely understandable to feel a sense of loss or a "bad taste" when a c
 
 You can’t move forward without acknowledging the impact of the past. The first step is to define the difficulty while isolating its source.
  * **Acknowledge the Impact:** Recognize that the transition process created a challenge related to transparency and timely communication. This is a process failure, not a reflection of the team’s work ethic or value.
- * **Decouple the Leader from the Function:** The confusion was rooted in organizational implementation. Your function -_- the high-quality work and complex problem-solving -_- remains vital. Your team's performance process is the operating system you must protect.
+ * **Decouple the Leader from the Function:** The confusion was rooted in organizational implementation. Your function -_-_- the high-quality work and complex problem-solving -_-_- remains vital. Your team's performance process is the operating system you must protect.
 
 **2. Double Down on Internal Team Commitments**
 
