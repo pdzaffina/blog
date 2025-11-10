@@ -29,6 +29,7 @@ When stability feels shaky at a higher level, you must aggressively invest in th
  * **Establish Communication Expectations:** Articulate among yourselves and to your new manager the minimum level of reliable communication and support you require to maintain your high-speed operating model. Frame this as a requirement for handling complex customer demands, not as a reaction to past events.
 
 **3. Build a New Partnership with the New Leader**
+
 A messy start doesn't define the future. Since your new manager is already great, focus on creating a strong working partnership based on mutual respect and clarity.
  * **Focus on the Partnership:** Approach the new boss relationship as a clean slate. While you might acknowledge the difficulty of the transition, focus the conversation entirely on future goals and the support your high-performing team needs to deliver.
  * **Communicate the Team's Needs:** Clearly explain that your team’s success is dependent on high-frequency feedback and a culture of clarity. Present this as your proven model for success. Example: "To handle the complexity of Customer X, our team relies on full transparency regarding priority shifts. We want to ensure we set you up for success in leading us by being clear about our needs."
