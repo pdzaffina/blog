@@ -9,7 +9,16 @@ tags:
 
 I just read a great article by Will Larson on "Moving from an orchestration-heavy to leadership-heavy management role."
 
-My "aha" moment: so many leaders lack the ability to do all six of the steps—Problem Discovery, Problem Selection, Solution Discovery, Solution Selection, Execution, and Ongoing Revision. Most get stuck focusing only on orchestration, missing the critical upfront leadership work.
+My "aha" moment: so many leaders lack the ability to do all six of the steps:
+
+* Problem Discovery
+* Problem Selection
+* Solution Discovery
+* **Solution Selection**
+* **Execution**
+* **Ongoing Revision**
+
+Most get stuck focusing only on orchestration --- the last three steps --- missing the critical upfront leadership work.
 
 This raises two crucial questions: Would you even know if you lacked those skills, or are they an invisible gap? And perhaps more importantly, would others in your organization notice? The article suggests that what feels like "business as usual" to an orchestration-heavy manager actually signals a struggle to everyone else.
 
