@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stop Saying \"I'm Not Technical\": Why A West Point Leadership Priniciple Applies to Every Corporate Role"
-published: false
+published: true
 tags:
   - Leadership
   - Proficiency
@@ -41,30 +41,46 @@ West Point understood that even an officer in a support role needs to be technic
 The idea that some roles are "technical" and others are "non-technical" simply doesn't hold up under this rigorous standard.
 
 ### Debunking the "Non-Technical" Myth in the Modern Workplace
-When someone in an IT context says, "I'm not technical," they're often implying they don't write code or manage servers. But this is a narrow, almost dismissive, definition of "technical." Every role contributing to software delivery, for example, has a deeply technical core:
+When someone in an IT context says, "I'm not technical," they're often implying they don't write code or manage servers. But this 
+is a narrow, almost dismissive, definition of "technical." Every role contributing to software delivery, for example, has a deeply 
+technical core:
 
-* **The Project Manager (PM):** Is a PM "non-technical"? Absolutely not. They must be technically proficient in the science of project management. This includes understanding PMBOK principles, Agile methodologies (Scrum, Kanban), risk management frameworks, resource allocation techniques, and the use of sophisticated project management software. Their "technical" domain is the structured execution of projects.
+* **The Project Manager (PM):** Is a PM "non-technical"? Absolutely not. They must be technically proficient in the science of
+* project management. This includes understanding PMBOK principles, Agile methodologies (Scrum, Kanban), risk management frameworks,
+* resource allocation techniques, and the use of sophisticated project management software. Their "technical" domain is the structured
+* execution of projects.
 
-* **The Business Analyst (BA):** Is a BA "non-technical"? Again, no. BAs are technically proficient in the science of requirements elicitation, process modeling (UML, BPMN), data analysis, stakeholder analysis, and solution design as outlined in bodies of knowledge like the IIBA BABOK Guide. Their "technical" domain is bridging business needs with system capabilities.
+* **The Business Analyst (BA):** Is a BA "non-technical"? Again, no. BAs are technically proficient in the science of requirements
+* elicitation, process modeling (UML, BPMN), data analysis, stakeholder analysis, and solution design as outlined in bodies of knowledge
+* like the IIBA BABOK Guide. Their "technical" domain is bridging business needs with system capabilities.
 
-* **The UX Designer:** Is a UX Designer "non-technical"? Of course not. They are technically proficient in user research methodologies, wireframing tools, prototyping software, accessibility standards, and cognitive psychology principles that inform user behavior. Their "technical" domain is creating intuitive and effective user experiences.
+* **The UX Designer:** Is a UX Designer "non-technical"? Of course not. They are technically proficient in user research methodologies,
+* wireframing tools, prototyping software, accessibility standards, and cognitive psychology principles that inform user behavior.
+* Their "technical" domain is creating intuitive and effective user experiences.
 
-The common thread is that each of these roles demands a rigorous, specialized body of knowledge—a "science" that must be mastered. This is their technical proficiency.
+The common thread is that each of these roles demands a rigorous, specialized body of knowledge—a "science" that must be mastered. 
+This is their technical proficiency.
 
 ### The Cost of a Misunderstood Mandate
-When individuals, or entire organizations, accept the premise that some roles are "non-technical," it contributes to lowering proficiency standards which creates several problems:
+When individuals, or entire organizations, accept the premise that some roles are "non-technical," it contributes to lowering proficiency 
+standards which creates several problems:
 
-Lowered Standards: It implicitly permits individuals in these roles to remain ignorant of the fundamental technical "science" of their domain, leading to poor decisions, missed details, and ultimately, project failure.
+1. **Lowered Standards:** It implicitly permits individuals in these roles to remain ignorant of the fundamental technical "science" of
+2. their domain, leading to poor decisions, missed details, and ultimately, project failure.
 
-Lack of Credibility: A PM who can't speak intelligently about the underlying technical challenges (even if they can't code them) loses credibility with their engineering team. A BA who doesn't understand system constraints will propose unfeasible solutions.
+3. **Lack of Credibility:** A PM who can't speak intelligently about the underlying technical challenges (even if they can't code them) loses credibility with their engineering team. A BA who doesn't understand system constraints will propose unfeasible solutions.
 
-Unnecessary Divides: It fosters the "us vs. them" mentality between "business" and "tech" when, in reality, everyone is part of a single operational unit with interdependent technical specializations.
+4. **Unnecessary Divides:** It fosters the "us vs. them" mentality between "business" and "tech" when, in reality, everyone is part of a single operational unit with interdependent technical specializations.
 
 ### Reclaiming the Universal Standard
-The wisdom from West Point applies directly to every modern workplace. Every professional role has a "science" that requires technical proficiency and an "art" that requires tactical proficiency.
+The wisdom from West Point applies directly to every modern workplace. Every professional role has a "science" that requires technical 
+proficiency and an "art" that requires tactical proficiency.
 
-The irony that an institution founded primarily to train engineers for the nation requires this key principle of competence from every graduate is not lost on me. It confirms that the principle is universal, not just specialized.
+The irony that an institution founded primarily to train engineers for the nation requires this key principle of competence from every 
+graduate is not lost on me. It confirms that the principle is universal, not just specialized.
 
-Instead of categorizing ourselves as "technical" or "non-technical," let's embrace the idea that we are all experts in different technical domains. A Project Manager is technically proficient in project methodology, just as a Software Engineer is technically proficient in coding languages. Both are essential, and both require continuous learning and application.
+Instead of categorizing ourselves as "technical" or "non-technical," let's embrace the idea that we are all experts in different technical 
+domains. A Project Manager is technically proficient in project methodology, just as a Software Engineer is technically proficient in coding languages. Both are essential, and both require continuous learning and application.
 
-By internalizing "Be Technically and Tactically Proficient" for our specific crafts, we elevate our individual contributions, strengthen our teams, and ultimately achieve our missions more effectively.
+By internalizing "Be Technically and Tactically Proficient" for our specific crafts, we elevate our individual contributions, strengthen 
+our teams, and ultimately achieve our missions more effectively.
