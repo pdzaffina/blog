@@ -15,7 +15,7 @@ principle applied equally. Everyone had to be proficient in their craft.
 
 In today's professional landscape, especially in IT and product delivery, I’ve often heard colleagues say, "I'm not technical." 
 This principle kept surfacing as I observed the damaging effects of eroding technical standards taking root in my organization. 
-I’ll admit that, in the past, I've fallen prey to this thinking myself when looking at roles outside of pure engineering, but 
+I’ll admit that, in the past, I've judged thos who've said this in the past, but 
 I realized it's a flawed mindset that doesn't do anyone any good.
 
 My search for the exact origin of this principle led me to **Dave Anderson's** blog post, ["West Point’s Eleven Principles of Leadership – Rewritten"](https://www.andersonleadershipsolutions.com/west-points-eleven-principles-of-leadership/), which brilliantly breaks down the West 
