@@ -62,8 +62,7 @@ The common thread is that each of these roles demands a rigorous, specialized bo
 This is their technical proficiency.
 
 ### The Cost of a Misunderstood Mandate
-When individuals, or entire organizations, accept the premise that some roles are "non-technical," it contributes to lowering proficiency 
-standards which creates several problems:
+When individuals, or entire organizations, accept the premise that some roles are "non-technical," it creates several problems:
 
 1. **Lowered Standards:** It implicitly permits individuals in these roles to remain ignorant of the fundamental technical "science" of
 2. their domain, leading to poor decisions, missed details, and ultimately, project failure.
