@@ -46,17 +46,17 @@ is a narrow, almost dismissive, definition of "technical." Every role contributi
 technical core:
 
 * **The Project Manager (PM):** Is a PM "non-technical"? Absolutely not. They must be technically proficient in the science of
-* project management. This includes understanding PMBOK principles, Agile methodologies (Scrum, Kanban), risk management frameworks,
-* resource allocation techniques, and the use of sophisticated project management software. Their "technical" domain is the structured
-* execution of projects.
+project management. This includes understanding PMBOK principles, Agile methodologies (Scrum, Kanban), risk management frameworks,
+resource allocation techniques, and the use of sophisticated project management software. Their "technical" domain is the structured
+execution of projects.
 
 * **The Business Analyst (BA):** Is a BA "non-technical"? Again, no. BAs are technically proficient in the science of requirements
-* elicitation, process modeling (UML, BPMN), data analysis, stakeholder analysis, and solution design as outlined in bodies of knowledge
-* like the IIBA BABOK Guide. Their "technical" domain is bridging business needs with system capabilities.
+elicitation, process modeling (UML, BPMN), data analysis, stakeholder analysis, and solution design as outlined in bodies of knowledge
+like the IIBA BABOK Guide. Their "technical" domain is bridging business needs with system capabilities.
 
 * **The UX Designer:** Is a UX Designer "non-technical"? Of course not. They are technically proficient in user research methodologies,
-* wireframing tools, prototyping software, accessibility standards, and cognitive psychology principles that inform user behavior.
-* Their "technical" domain is creating intuitive and effective user experiences.
+wireframing tools, prototyping software, accessibility standards, and cognitive psychology principles that inform user behavior.
+Their "technical" domain is creating intuitive and effective user experiences.
 
 The common thread is that each of these roles demands a rigorous, specialized body of knowledge—a "science" that must be mastered. 
 This is their technical proficiency.
@@ -65,7 +65,7 @@ This is their technical proficiency.
 When individuals, or entire organizations, accept the premise that some roles are "non-technical," it creates several problems:
 
 1. **Lowered Standards:** It implicitly permits individuals in these roles to remain ignorant of the fundamental technical "science" of
-2. their domain, leading to poor decisions, missed details, and ultimately, project failure.
+their domain, leading to poor decisions, missed details, and ultimately, project failure.
 
 3. **Lack of Credibility:** A PM who can't speak intelligently about the underlying technical challenges (even if they can't code them) loses credibility with their engineering team. A BA who doesn't understand system constraints will propose unfeasible solutions.
 
