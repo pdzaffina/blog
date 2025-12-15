@@ -25,7 +25,7 @@ permalink: /prompts/
     white-space: pre-wrap;
   }
   
-  /* The Copy Button */
+  /* The Copy Button (no change) */
   .copy-btn {
     position: absolute;
     top: 5px;
@@ -44,18 +44,31 @@ permalink: /prompts/
     background-color: #f3f4f6;
   }
 
-  /* Indent titles */
+  /* Fix for arrow and heading on the same line */
+  /* Make the headings act like inline content so the arrow stays next to them */
+  details summary h2, 
+  details summary h3 {
+    display: inline; /* Crucial change: treats the heading like normal text */
+    margin: 0;      /* Removes default heading margins that might wrap content */
+    padding: 0;     /* Removes default heading padding */
+  }
+
+  /* Indent titles (no change) */
   details.prompt-title {
     margin-left: 20px;
     margin-bottom: 10px;
   }
   
+  /* Apply padding/margin to the summary itself to create space */
   summary {
     cursor: pointer;
+    /* This padding replaces the space lost by removing h2/h3 margins */
+    padding-top: 5px; 
+    padding-bottom: 5px;
     margin-bottom: 10px;
   }
 
-  /* Style for the credit line */
+  /* Style for the credit line (no change) */
   .prompt-credit {
     font-size: 0.9em;
     font-style: italic;
