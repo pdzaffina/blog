@@ -1,4 +1,4 @@
----
+8---
 layout: post
 title: "West Point Leadership Principle 1: Know Yourself and Seek Self-Improvement"
 published: true
@@ -29,4 +29,3 @@ Based on that philosophy, self-improvement is driven by two external forces:
 
 ## Final Thought
 Self-improvement is an infinite game. By combining the discipline of West Point with the intentionality of Charlie Jones's philosophy, you ensure that the version of you five years from now is wiser, stronger, and more capable than the version of you today.
-Would you like me to draft the section for Leadership Principle 2 next, or would you like to refine the tone of this post first?
