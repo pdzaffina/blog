@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Beyond the Council of No: Why Data Teams Must Embrace the Bazaar"
+published: false
+tags:
+  - Leadership
+  - West Point Leadership Principles 
+---
 This first principle is the bedrock of military leadership, but its application extends far beyond the parade field. Here is a draft for your blog post that integrates your personal reflections with the wisdom of Charlie "Tremendous" Jones and Dave Ramsey.
 Leadership Principle 1: Know Yourself and Seek Self-Improvement
 At West Point, leadership isn’t just about giving orders; it begins with an honest audit of the person in the mirror. You cannot lead others effectively if you haven't mastered leading yourself. This principle is built on two distinct but inseparable pillars.
