@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "West Point Leadership Principle 1: Know Yourself and Seek Self-Improvement"
-published: false
+published: true
 tags:
   - Leadership
   - West Point Leadership Principles 
