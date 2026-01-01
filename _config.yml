@@ -89,3 +89,5 @@ collections:
   prompts:
     output: false
     sort_by: title
+
+future: false
