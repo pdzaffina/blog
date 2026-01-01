@@ -1,4 +1,4 @@
-8---
+---
 layout: post
 title: "West Point Leadership Principle 1: Know Yourself and Seek Self-Improvement"
 published: true
