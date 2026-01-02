@@ -2,7 +2,7 @@
 layout: post
 title: "Leadership Principle 3: Seek Responsibility and Take Responsibility for Your Actions"
 published: false
-date:
+date: 2026-01-05 12:00:00 -0600
 tags:
   - Leadership
   - West Point Leadership
