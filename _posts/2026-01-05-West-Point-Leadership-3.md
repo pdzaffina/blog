@@ -4,7 +4,7 @@ title: "Leadership Principle 3: Seek Responsibility and Take Responsibility for 
 date: 2026-01-05 12:00:00 -0600
 tags:
   - Leadership
-  - West Point Leadership
+  - West Point Leadership Principles
 ---
 
 
