@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Leadership Principle 3: Seek Responsibility and Take Responsibility for Your Actions"
-published: false
 date: 2026-01-05 12:00:00 -0600
 tags:
   - Leadership
@@ -22,9 +21,9 @@ Seeking responsibility means you don't wait to be told what to do. You look for 
 The second half of this principle is the ultimate test of a leader's character. In a "no excuses" environment, a leader is responsible for everything the team does or fails to do. When a mistake happens, a true leader does not point fingers at subordinates, external circumstances, or bad luck.
 
 Taking responsibility involves:
- * The "Buck Stops Here" Mentality: Publicly accepting the blame for failures while passing the credit for successes down to the team.
- * Honesty and Transparency: Being the first to admit when a plan has failed so that the team can pivot and find a solution.
- * Corrective Action: Instead of dwelling on a mistake or trying to hide it, a leader analyzes what went wrong and takes immediate steps to fix it.
+ * **The "Buck Stops Here" Mentality:** Publicly accepting the blame for failures while passing the credit for successes down to the team.
+ * **Honesty and Transparency:** Being the first to admit when a plan has failed so that the team can pivot and find a solution.
+ * **Corrective Action:** Instead of dwelling on a mistake or trying to hide it, a leader analyzes what went wrong and takes immediate steps to fix it.
 
 The Impact on the Team
 When you seek and take responsibility, you set a standard for everyone around you. It creates a culture of ownership where team members feel safe to take calculated risks, knowing their leader will support them. It eliminates the culture of blame and replaces it with a culture of problem-solving.
