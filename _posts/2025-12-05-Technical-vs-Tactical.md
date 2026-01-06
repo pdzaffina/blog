@@ -6,6 +6,7 @@ tags:
   - Leadership
   - Proficiency
   - Standards
+  - West Point Leadership Principles
 ---
 
 The phrase still echoes in my mind: "Be Technically and Tactically Proficient." At West Point, this wasn't just a suggestion; 
