@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stop Saying \"I'm Not Technical\": Why A West Point Leadership Priniciple Applies to Every Corporate Role"
+title: "Stop Saying \"I'm Not Technical\": Why A West Point Leadership Priniciple Applies to Every Corporate Role (West Point Leadership Principle 2)"
 published: true
 tags:
   - Leadership
