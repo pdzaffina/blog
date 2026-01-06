@@ -8,15 +8,15 @@ tags:
 ---
 At West Point, leadership isn’t just about giving orders; it begins with an honest audit of the person in the mirror. You cannot lead others effectively if you haven't mastered leading yourself. This principle is built on two distinct but inseparable pillars.
 
-## The Mirror: Knowing Yourself
+### The Mirror: Knowing Yourself
 To "know yourself" requires a level of radical honesty that most people avoid. It means identifying your natural strengths so you can lean into them, but more importantly, it means identifying your weaknesses so they don't become your team's blind spots.
 
 This process involves:
- * Consistent Self-Reflection: Taking the time to analyze your performance and decisions.
- * Adapting to Change: Recognizing when your old methods no longer serve the current mission.
- * Seeking Feedback: Having the humility to ask subordinates and peers where you are falling short.
+ * **Consistent Self-Reflection:** Taking the time to analyze your performance and decisions.
+ * **Adapting to Change:** Recognizing when your old methods no longer serve the current mission.
+ * **Seeking Feedback:** Having the humility to ask subordinates and peers where you are falling short.
 
-## The Engine: Seeking Self-Improvement
+### The Engine: Seeking Self-Improvement
 The second half of the principle is where growth happens. Knowing you have a weakness is useless unless you have a plan to fix it. This is where the wisdom often shared by Dave Ramsey comes into play. Ramsey frequently quotes Charlie "Tremendous" Jones, who said:
 > "You'll be the same person in five years as you are today, except for the people you meet and the books you read."
 > 
