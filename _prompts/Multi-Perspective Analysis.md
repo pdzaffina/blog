@@ -1,6 +1,6 @@
 ---
 layout: prompt
-category: Analysis
+category: Decisions
 title: Multi-Perspective Analysis (See Every Angle Before Deciding)
 published: true
 credit: Alamin Hossain (https://www.linkedin.com/in/alaminpro/)
