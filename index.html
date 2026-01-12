@@ -12,7 +12,11 @@ layout: page
       </div>
 
       <div class="entry">
-        {{ post.excerpt }}
+        {% if post.excerpt and post.excerpt != post.content %}
+          {{ post.excerpt }}
+        {% else %}
+          {{ post.content | truncatewords: 50 }}&nbsp;<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more →</a>
+        {% endif %}
       </div>
 
       {% if post.tags %}
