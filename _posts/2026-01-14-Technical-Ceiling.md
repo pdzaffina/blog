@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Invisible Ceiling: Why Technical Excellence Isn’t Enough"
-date: 2026-01-13 07:00:00 -0600
+date: 2026-01-14 07:00:00 -0600
 tags:
   - Leadership
 ---
