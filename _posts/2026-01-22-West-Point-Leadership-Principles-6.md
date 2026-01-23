@@ -6,7 +6,7 @@ tags:
   - Leadership
   - West Point Leadership Principles
 ---
-At West Point, we were taught that you cannot lead a team you do not understand. This principle is the bedrock of servant leadership. It requires moving beyond a "units of production" mindset and seeing your team as human beings. While the mission always comes first, the people always come second—because without the people, the mission is impossible.
+At West Point, we were taught that you cannot lead a team you do not understand. This principle is the bedrock of servant leadership. It requires moving beyond a "units of production" mindset and seeing your team as human beings. While the mission always comes first, the people always come next, because without the people, the mission is impossible.
 
 ### The Foundation: Connection and Visibility
 
@@ -20,13 +20,13 @@ True connection happens when:
 
 ### The Link to Psychological Safety
 
-You cannot have true well-being in a workplace without **psychological safety**. This is the belief that one will not be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes. 
+You cannot have true well-being in a workplace without **psychological safety**. This is the belief that you will not be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes. 
 
-However, psychological safety is not something you can simply demand; it is something you must earn through consistent connection.
+However, psychological safety is not something you can simply demand; it is something you must earn through consistent connection, and walking the walk.
 
 * **Trust is the bridge:** Your team must trust your intentions before they feel safe being vulnerable.
 * **Visibility creates security:** When your team sees you, interacts with you, and knows your character, the "fear of the boss" evaporates.
-* **Connection is the requirement:** You have to connect with your people on a human level to build the safety required for them to take risks and innovate.
+* **Connection is the requirement:** You have to connect with your people on a human level to build the safety required for them to take risks and innovate. I cannot stress this enough.
 
 ### Enabling Growth Through Honest Feedback
 
