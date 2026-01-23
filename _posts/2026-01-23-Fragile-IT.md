@@ -13,7 +13,7 @@ When an IT department has several chronically deficient teams, the rest of the o
 
 What looks like excess capacity is often hidden fragility.
 
-Recently, while discussing headcount planning with a colleague, he articulated a version of this pattern that immediately resonated with me. Fixing the entire IT system usually feels too hard, too slow, or too politically complex. In that environment, the only viable coping mechanism for high-performing teams is to buffer themselves by requesting and fighting for more resources.
+Recently, while discussing headcount planning with a colleague of mine Rocco Brittingham, he articulated a version of this pattern that immediately resonated with me. Fixing the entire IT system usually feels too hard, too slow, or too politically complex. In that environment, the only viable coping mechanism for high-performing teams is to buffer themselves by requesting and fighting for more resources.
 
 From the outside, this looks like headcount inflation.  
 From the inside, it is self-preservation.
