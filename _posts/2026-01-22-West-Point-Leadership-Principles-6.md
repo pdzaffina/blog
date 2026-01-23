@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "West Point LLeadership Principle 5: Know Your People and Look Out for Their Well-Being"
+title: "West Point Leadership Principle 5: Know Your People and Look Out for Their Well-Being"
 published: true
 tags:
   - Leadership
