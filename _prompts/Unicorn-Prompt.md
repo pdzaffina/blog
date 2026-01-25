@@ -1,6 +1,6 @@
 ---
 layout: prompt
-category: Writing
+category: General
 title: Unicorn Prompt
 published: true
 credit: Amanda Caswell (https://www.tomsguide.com/ai/i-use-the-unicorn-prompt-with-every-chatbot-it-instantly-fixes-the-worst-ai-problem)
