@@ -1,4 +1,3 @@
-
 ---
 layout: prompt
 category: Creative
