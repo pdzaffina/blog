@@ -7,8 +7,6 @@ tags:
   - Data
   - Data Warehouse
 ---
-# Unlocking ERP, HCM, and SCM Insights with Oracle’s Autonomous Database and MCP
-
 In the ever-evolving landscape of enterprise data, getting value from ERP, HCM, and SCM systems can feel like a massive lift. Traditionally, creating a data warehouse that integrates all these sources required a team of DBAs, data engineers, and countless hours of pipeline development. But our team’s recent experience with [Oracle Fusion Data Intelligence (FDI)](https://blogs.oracle.com/analytics/introducing-oracle-fusion-ai-data-platform-where-trusted-business-data-meets-ai-powered-action) and the [Oracle Autonomous Database (ADB)](https://blogs.oracle.com/machinelearning/announcing-the-oracle-autonomous-ai-database-mcp-server) has completely changed that story.
 
 At the heart of FDI is the [Oracle Autonomous Data Warehouse (ADW)](https://www.oracle.com/fusion-ai-data-platform/capabilities/), a fully managed, cloud-native data warehouse. While ADW itself is powerful, pairing it with the built-in **[Model Context Protocol (MCP) server)](https://blogs.oracle.com/machinelearning/announcing-the-oracle-autonomous-ai-database-mcp-server)** unlocks capabilities that were previously out of reach for most organizations. MCP provides structured modeling, semantic context, and AI-assisted insights directly in the database. Imagine having a full 3NF data warehouse with all your business-critical data, ERP, HCM, and SCM, ready for AI-powered action without the need to manually orchestrate every process.
