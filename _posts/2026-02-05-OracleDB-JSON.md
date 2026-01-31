@@ -46,10 +46,6 @@ The database supports **JSON collection tables**, where each row is a JSON docum
 - Works alongside relational tables for analytics and reporting  
 - Supports external table ingestion for newline-delimited JSON or arrays
 
-## AI-Assisted Exploration with Human Oversight
-
-For exploratory data analysis (EDA), our team uses JSON functions and MCP-like workflows to **surface insights and generate initial queries**. These are then **reviewed and refined by our engineers**, ensuring humans remain in the driver’s seat. This approach accelerates analysis while maintaining control over correctness and logic.
-
 ## Built-In Enterprise Features
 
 Oracle AI Database 26ai brings JSON into the enterprise world:
