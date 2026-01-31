@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Unlocking Modern Applications with JSON in Oracle AI Database 26ai
-date: 2026-02-05 07:30:00 -0600
+title: "Unlocking Modern Applications with JSON in Oracle AI Database 26ai"
+date: 2026-02-05 07:00:00 -0600
 tags:
   - Oracle
   - Data
