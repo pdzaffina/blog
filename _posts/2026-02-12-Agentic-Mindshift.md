@@ -23,7 +23,7 @@ This is about operating differently.
 
 ---
 
-From Individual Contributor to Agent Orchestrator
+## From Individual Contributor to Agent Orchestrator
 
 Here is what my new workday looked like yesterday.
 
@@ -76,7 +76,7 @@ All of it running locally and freely via OpenCode, Ollama, and gpt-oss:20b.
 
 ---
 
-The Cognitive Shift Is Real
+## The Cognitive Shift Is Real
 
 What surprised me most was not productivity.
 
@@ -106,7 +106,7 @@ Some will not.
 
 ---
 
-A New Shape of the Workday
+## A New Shape of the Workday
 
 If this model continues to mature, the archetypal workday changes.
 
@@ -123,7 +123,7 @@ That requires different mental muscles.
 
 ---
 
-This Is Happening Now
+## This Is Happening Now
 
 It is tempting to categorize this as experimental or bleeding edge.
 
@@ -149,7 +149,7 @@ Now that shift is happening at the individual knowledge worker level.
 
 ---
 
-What This Means for Executives
+## What This Means for Executives
 
 For leaders, this is not about which model to buy.
 
