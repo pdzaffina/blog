@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Let Go, Let Agents: A New Shape of the Workday"
-published: draft
+published: true
 tags:
   - AI
   - Artificial Intelligence
