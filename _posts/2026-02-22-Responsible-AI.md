@@ -6,7 +6,7 @@ tags:
   - AI
   - Artificial Intelligence
 ---
-![AI generated fake splotches painting at a gallery](images/Ai-pollock.png)
+![AI generated fake splotches painting at a gallery](../images/Ai-pollock.png)
 
 There was a time when I had a very narrow definition of what counted as “good” art.
 
