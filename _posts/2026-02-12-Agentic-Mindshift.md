@@ -21,8 +21,6 @@ This is not about prompting better.
 This is about operating differently.
 
 
----
-
 ## From Individual Contributor to Agent Orchestrator
 
 Here is what my new workday looked like yesterday.
@@ -74,8 +72,6 @@ Yesterday.
 All of it running locally and freely via OpenCode, Ollama, and gpt-oss:20b.
 
 
----
-
 ## The Cognitive Shift Is Real
 
 What surprised me most was not productivity.
@@ -103,8 +99,6 @@ It is closer to managing high-performing analysts than it is to writing code or 
 And some people will adapt quickly.
 Some will not.
 
-
----
 
 ## A New Shape of the Workday
 
@@ -146,8 +140,6 @@ In many ways, it mirrors how software engineering matured. From lone coders to d
 
 Now that shift is happening at the individual knowledge worker level.
 
-
----
 
 ## What This Means for Executives
 
