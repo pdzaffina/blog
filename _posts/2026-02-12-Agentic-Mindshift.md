@@ -115,8 +115,6 @@ It is orchestration, judgment, and refinement.
 That requires different mental muscles.
 
 
----
-
 ## This Is Happening Now
 
 It is tempting to categorize this as experimental or bleeding edge.
