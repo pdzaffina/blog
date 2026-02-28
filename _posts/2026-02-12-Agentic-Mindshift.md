@@ -5,6 +5,8 @@ published: true
 tags:
   - AI
   - Artificial Intelligence
+  - AI Agents
+  - OpenCode
 ---
 
 A few days ago I read [“Let Go, Let Claude”](https://bigmachine.io/articles/claude/let-go-let-claude/) by Rob Conery and it genuinely stopped me in my tracks.
