@@ -2,7 +2,7 @@
 layout: prompt
 category: AGENTS
 title: writer-agent.md
-published: true
+published: false
 
 ---
 ```
