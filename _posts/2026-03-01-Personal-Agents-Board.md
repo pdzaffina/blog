@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Your Personal Board of Directors as AI Agents for Budget Planning"
-date: 2026-03-03 07:00:00 -0600
+published: true
 tags:
   - AI
   - Artificial Intelligence
