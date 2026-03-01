@@ -1,6 +1,6 @@
 ---
 layout: prompt
-category: AGENTS.md
+category: AGENTS
 title: writer-agent.md
 published: true
 
