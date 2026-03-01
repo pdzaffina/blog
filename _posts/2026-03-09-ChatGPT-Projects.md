@@ -31,8 +31,6 @@ The interesting shift is not technical.
 
 It is organizational.
 
----
-
 ## From Agent Runtime to Cognitive Workspace
 
 OpenCode treats every repository as an agent workspace. Configuration files define behavior, models, permissions, and memory 
@@ -51,7 +49,6 @@ Instead of configuring JSON providers or local models, you define **what thinkin
 
 The unit of work moves from *prompt* to *workspace*.
 
----
 
 ## The Core Insight: Organize AI Like You Organize Teams
 
@@ -86,7 +83,6 @@ Each Project accumulates institutional memory over time.
 
 The AI stops responding as a general assistant and begins responding as a **domain embedded advisor**.
 
----
 
 ## Replacing Local Context Engineering
 
@@ -111,7 +107,6 @@ You manage:
 
 Context engineering becomes organizational design.
 
----
 
 ## How I Structure Projects
 
@@ -125,7 +120,6 @@ Every Project starts with a defining artifact:
 
 This functions exactly like an agent system prompt, except it evolves continuously.
 
----
 
 ### 2. Persistent Reference Material
 
@@ -139,7 +133,7 @@ Upload or maintain:
 
 The Project learns how you think, not just what you ask.
 
----
+
 
 ### 3. Work Happens Inside the Boundary
 
@@ -149,7 +143,7 @@ This compounds intelligence over time.
 
 You are effectively training a long running reasoning partner constrained to a specific mission.
 
----
+
 
 ### 4. Separate Thinking Modes
 
@@ -169,7 +163,6 @@ Writing ≠ Operations
 
 Isolation increases signal quality.
 
----
 
 ## The Hidden Advantage: Executive Visibility
 
@@ -186,7 +179,6 @@ Because outputs remain cloud native and shareable, Projects naturally produce ar
 
 The AI becomes a force multiplier for leadership communication rather than just development acceleration.
 
----
 
 ## What This Really Enables
 
@@ -205,7 +197,6 @@ This is closer to having:
 
 All operating within clearly defined cognitive domains.
 
----
 
 ## Local Agents vs Projects
 
@@ -222,7 +213,6 @@ Both approaches solve the same problem.
 
 They simply optimize for different constraints.
 
----
 
 ## The Real Pattern
 
