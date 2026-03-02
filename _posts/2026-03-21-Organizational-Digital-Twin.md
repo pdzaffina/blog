@@ -77,7 +77,9 @@ In essence, it transforms leadership from reactive problem-solving to proactive 
 
 - **Treat it ethically:** Protect privacy, respect sensitivity, and use insights to improve collective outcomes, not to micromanage individuals.
 
+\*\*[Example files](https://gist.github.com/pdzaffina/9df508ded90ff5ce0e7fc7397c6a5308)
 
 ### Conclusion
 
 In an era of increasing organizational complexity, leaders cannot rely solely on formal reporting lines or static processes. A digital twin gives visibility into the invisible mechanics of the organization, enabling smarter decisions, more strategic engagement, and faster progress. By modeling influence, decision flow, and behavioral patterns, organizations can operate with the foresight of an engineered system—without losing the human judgment that makes leadership effective.
+
