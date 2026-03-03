@@ -4,11 +4,9 @@ title: Preview
 permalink: /preview/
 ---
 
-{% assign now = site.time %}
-
 {% assign preview_posts = site.posts
   | where: "published", true
-  | where_exp: "post", "post.date > now" %}
+  | where: "preview", true %}
 
 <div class="posts">
   {% for post in preview_posts %}
@@ -43,6 +41,6 @@ permalink: /preview/
   {% endfor %}
 
   {% if preview_posts.size == 0 %}
-    <p>No scheduled posts.</p>
+    <p>No preview posts available.</p>
   {% endif %}
 </div>
