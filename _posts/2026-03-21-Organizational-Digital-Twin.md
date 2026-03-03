@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building an Organizational Digital Twin: A Modern Approach to Leadership Insight"
-date: 2026-03-01 07:00:00 -0600
+date: 2026-03-21 07:00:00 -0600
 preview: true
 tag:
   - AI
