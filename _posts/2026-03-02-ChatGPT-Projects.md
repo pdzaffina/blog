@@ -199,7 +199,7 @@ All operating within clearly defined cognitive domains.
 
 
 ## Local Agents vs Projects
-
+<!--
 | Capability                  | OpenCode + Ollama | ChatGPT Projects |
 | --------------------------- | ----------------- | ---------------- |
 | Full local control          | Yes               | No               |
@@ -208,6 +208,48 @@ All operating within clearly defined cognitive domains.
 | Collaboration               | Limited           | Natural          |
 | Executive artifact creation | Indirect          | First class      |
 | Setup time                  | Hours             | Minutes          |
+-->
+<table>
+  <thead>
+    <tr>
+      <th>Capability</th>
+      <th>OpenCode + Ollama</th>
+      <th>ChatGPT Projects</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Full local control</td>
+      <td>Yes</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>Operational overhead</td>
+      <td>High</td>
+      <td>Minimal</td>
+    </tr>
+    <tr>
+      <td>Persistent context</td>
+      <td>Manual</td>
+      <td>Native</td>
+    </tr>
+    <tr>
+      <td>Collaboration</td>
+      <td>Limited</td>
+      <td>Natural</td>
+    </tr>
+    <tr>
+      <td>Executive artifact creation</td>
+      <td>Indirect</td>
+      <td>First class</td>
+    </tr>
+    <tr>
+      <td>Setup time</td>
+      <td>Hours</td>
+      <td>Minutes</td>
+    </tr>
+  </tbody>
+</table>
 
 Both approaches solve the same problem.
 
