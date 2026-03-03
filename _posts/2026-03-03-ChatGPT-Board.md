@@ -45,8 +45,11 @@ By loading all agents into the same Project, **every advisory perspective is alw
 The Project’s **custom instructions** tell ChatGPT how to use the agents effectively:
 
 > **1. Primary Guidance:** Use the content in `AGENTS.md` as the foundation for understanding the board’s structure and inter-agent relationships.
+>
 > **2. Role Perspective:** Consult each role file (`challenger.md`, `operator.md`, etc.) to apply the specific advisory lens.
+> 
 > **3. Cross-Agent Awareness:** When reasoning or evaluating tradeoffs, integrate relevant input from all advisors.
+> 
 > **4. Consistency:** Maintain continuity with prior decisions and guidance stored in the Project’s memory.
 
 This ensures each response considers **all perspectives**, while still respecting each agent’s role.
