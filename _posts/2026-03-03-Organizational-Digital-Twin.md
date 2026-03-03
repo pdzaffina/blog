@@ -34,6 +34,7 @@ Organizations are rarely governed purely by hierarchy. Decisions move at the spe
 The digital twin becomes a tool for navigating risk and complexity, rather than a mechanism for control.
 
 ### Core Components
+\*\*[Example Files](https://gist.github.com/pdzaffina/9df508ded90ff5ce0e7fc7397c6a5308)
 
 A robust organizational digital twin typically includes three complementary layers.
 
