@@ -40,10 +40,10 @@ ChatGPT Projects apply the same principle at a higher abstraction level.
 
 A Project becomes:
 
-• persistent context
-• shared knowledge boundary
-• long lived reasoning memory
-• reusable decision environment
+- persistent context
+- shared knowledge boundary
+- long lived reasoning memory
+- reusable decision environment
 
 Instead of configuring JSON providers or local models, you define **what thinking belongs together**.
 
@@ -60,24 +60,24 @@ Examples:
 
 ### Executive Leadership
 
-Strategic planning
-Org design
-Compensation philosophy
-Board communication drafts
+- Strategic planning
+- Org design
+- Compensation philosophy
+- Board communication drafts
 
 ### Engineering Architecture
 
-Platform strategy
-API standards
-Reference architectures
-Technical decision records
+- Platform strategy
+- API standards
+- Reference architectures
+- Technical decision records
 
 ### Personal Operating System
 
-Career positioning
-Writing and thought development
-Leadership frameworks
-Long term planning
+- Career positioning
+- Writing and thought development
+- Leadership frameworks
+- Long term planning
 
 Each Project accumulates institutional memory over time.
 
@@ -93,17 +93,17 @@ ChatGPT Projects shift this burden away from infrastructure.
 
 Instead of managing:
 
-• local model context length
-• filesystem exposure
-• provider configuration
-• agent permissions
+- local model context length
+- filesystem exposure
+- provider configuration
+- agent permissions
 
 You manage:
 
-• source documents
-• guiding principles
-• reference artifacts
-• decision history
+- source documents
+- guiding principles
+- reference artifacts
+- decision history
 
 Context engineering becomes organizational design.
 
@@ -114,9 +114,9 @@ Context engineering becomes organizational design.
 
 Every Project starts with a defining artifact:
 
-*Leadership philosophy*
-*Architecture north star*
-*Operating principles*
+- *Leadership philosophy*
+- *Architecture north star*
+- *Operating principles*
 
 This functions exactly like an agent system prompt, except it evolves continuously.
 
@@ -125,11 +125,11 @@ This functions exactly like an agent system prompt, except it evolves continuous
 
 Upload or maintain:
 
-• strategy docs
-• org charts
-• design standards
-• past decisions
-• writing samples
+- strategy docs
+- org charts
+- design standards
+- past decisions
+- writing samples
 
 The Project learns how you think, not just what you ask.
 
@@ -157,9 +157,9 @@ That recreates chat entropy.
 
 Instead:
 
-Strategy ≠ Execution
-Architecture ≠ Career
-Writing ≠ Operations
+- Strategy ≠ Execution
+- Architecture ≠ Career
+- Writing ≠ Operations
 
 Isolation increases signal quality.
 
@@ -172,10 +172,10 @@ Projects optimize for **organizational influence**.
 
 Because outputs remain cloud native and shareable, Projects naturally produce artifacts that can move upward in an organization:
 
-• memos
-• narratives
-• decision briefs
-• frameworks
+- memos
+- narratives
+- decision briefs
+- frameworks
 
 The AI becomes a force multiplier for leadership communication rather than just development acceleration.
 
@@ -190,10 +190,10 @@ You start using AI to maintain continuity of thought across months or years.
 
 This is closer to having:
 
-• a standing architecture council
-• a strategy analyst
-• an editorial partner
-• a personal chief of staff
+- a standing architecture council
+- a strategy analyst
+- an editorial partner
+- a personal chief of staff
 
 All operating within clearly defined cognitive domains.
 
