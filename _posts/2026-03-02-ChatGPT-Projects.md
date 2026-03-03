@@ -209,7 +209,32 @@ All operating within clearly defined cognitive domains.
 | Executive artifact creation | Indirect          | First class      |
 | Setup time                  | Hours             | Minutes          |
 -->
-<table>
+<style>
+  .comparison-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    margin: 20px 0;
+    font-size: 16px;
+    text-align: left;
+  }
+  .comparison-table th {
+    background-color: #f4f4f4;
+    color: #333;
+    font-weight: bold;
+    padding: 12px;
+    border-bottom: 2px solid #ddd;
+  }
+  .comparison-table td {
+    padding: 12px;
+    border-bottom: 1px solid #eee;
+  }
+  .comparison-table tr:hover {
+    background-color: #fafafa;
+  }
+</style>
+
+<table class="comparison-table">
   <thead>
     <tr>
       <th>Capability</th>
