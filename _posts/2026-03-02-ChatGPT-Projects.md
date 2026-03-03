@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Building a Personal AI Environment with ChatGPT Projects"
-date: 2026-03-09 07:00:00 -0600
-preview: true
+published: true
 tags:
   - AI
   - Artificial Intelligence

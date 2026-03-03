@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Designing a Personal Board of Directors Using ChatGPT Projects"
-date: 2026-03-15 07:00:00 -0600
-preview: true
+published: true
 tags:
   - AI
   - Artificial Intelligence
