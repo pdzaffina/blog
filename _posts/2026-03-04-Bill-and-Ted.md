@@ -130,7 +130,7 @@ to be wrong about this?"
 
 ### Step 3: Use it on a real problem
 
-Paste the AGENT.md as your system prompt and bring it something hard. Not a test. A real thing you're wrestling with.
+Paste the AGENTS.md as your system prompt and bring it something hard. Not a test. A real thing you're wrestling with.
 
 Start with the problem you feel most sure about. That's where Socrates does his best work.
 
@@ -142,11 +142,11 @@ Bill and Ted didn't try to become Napoleon or Joan of Arc. They brought those pe
 
 That's what a well-designed advisor agent does. It's not pretending the AI has become Socrates. It's using the Socratic frame -- the questions, the method, the refusal to give easy answers -- as a lens on your actual problem.
 
-The AGENT.md is the phone booth. It pulls forward a way of thinking that survived centuries because it works.
+The AGENTS.md is the phone booth. It pulls forward a way of thinking that survived centuries because it works.
 
 And you're not limited to historical figures. You can design advisors around archetypes: the Devil's Advocate, the User's Champion, the person who tries to break everything you just built. Each one a different lens. Each one catching something the others miss.
 
-> History's greatest minds didn't disappear. They left behind a way of thinking. An AGENT.md is how you reinstall it.
+> History's greatest minds didn't disappear. They left behind a way of thinking. An AGENTS.md is how you reinstall it.
 
 ---
 
