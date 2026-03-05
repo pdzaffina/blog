@@ -43,7 +43,7 @@ Here's a rough starter council:
 <table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; font-size:14px;">
   <thead>
     <!--<tr style="background-color:#111827; color:#ffffff; text-align:left;">-->
-    <tr style="background-color:##bec4d1; color:#000000; text-align:left;">
+    <tr style="background-color:#b9bbb6; color:#000000; text-align:left;">
       <th style="padding:10px; border:1px solid #e5e7eb;">Advisor</th>
       <th style="padding:10px; border:1px solid #e5e7eb;">Domain</th>
       <th style="padding:10px; border:1px solid #e5e7eb;">What They Do</th>
