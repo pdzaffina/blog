@@ -25,19 +25,68 @@ The basic idea: instead of prompting a single AI to "be helpful," you design a s
 
 Think of it less like a chatbot and more like having a handful of very opinionated advisors on speed dial. You call the right one for the right problem.
 
-Each agent lives in an **AGENTS.md file** -- a structured markdown document that defines who they are, how they think, what they're good at, and where they break down. It's their character sheet. Their operating instructions.
+Each agent lives in an **AGENTS.md file**; a structured markdown document that defines who they are, how they think, what they're good at, and where they break down. It's their character sheet. Their operating instructions.
 
 When you have a hard problem, you bring the relevant advisor in. Sometimes you want one. Sometimes you want two to argue with each other. The point is that **different frames catch different things**, and a single "be helpful" prompt catches almost nothing.
 
 Here's a rough starter council:
 
+<!--
 | Advisor | Domain | What They Do |
 |---|---|---|
 | 🏛️ **Socrates** | First Principles | Questions everything. Never gives you the answer directly. |
 | ⚔️ **Sun Tzu** | Strategy | Treats every competitive problem like a battlefield. |
 | 🌿 **Marcus Aurelius** | Resilience | Stoic. Practical. Tells you to stop complaining and get on with it. |
 | 🎨 **Da Vinci** | Systems Thinking | Connects everything to everything. Starts too many projects. |
+-->
 
+<table style="width:100%; border-collapse:collapse; font-family:Arial, sans-serif; font-size:14px;">
+  <thead>
+    <tr style="background-color:#111827; color:#ffffff; text-align:left;">
+      <th style="padding:10px; border:1px solid #e5e7eb;">Advisor</th>
+      <th style="padding:10px; border:1px solid #e5e7eb;">Domain</th>
+      <th style="padding:10px; border:1px solid #e5e7eb;">What They Do</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#f9fafb;">
+      <td style="padding:10px; border:1px solid #e5e7eb;">
+        🏛️ <strong>Socrates</strong>
+      </td>
+      <td style="padding:10px; border:1px solid #e5e7eb;">First Principles</td>
+      <td style="padding:10px; border:1px solid #e5e7eb;">
+        Questions everything. Never gives you the answer directly.
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #e5e7eb;">
+        ⚔️ <strong>Sun Tzu</strong>
+      </td>
+      <td style="padding:10px; border:1px solid #e5e7eb;">Strategy</td>
+      <td style="padding:10px; border:1px solid #e5e7eb;">
+        Treats every competitive problem like a battlefield.
+      </td>
+    </tr>
+    <tr style="background-color:#f9fafb;">
+      <td style="padding:10px; border:1px solid #e5e7eb;">
+        🌿 <strong>Marcus Aurelius</strong>
+      </td>
+      <td style="padding:10px; border:1px solid #e5e7eb;">Resilience</td>
+      <td style="padding:10px; border:1px solid #e5e7eb;">
+        Stoic. Practical. Tells you to stop complaining and get on with it.
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:10px; border:1px solid #e5e7eb;">
+        🎨 <strong>Da Vinci</strong>
+      </td>
+      <td style="padding:10px; border:1px solid #e5e7eb;">Systems Thinking</td>
+      <td style="padding:10px; border:1px solid #e5e7eb;">
+        Connects everything to everything. Starts too many projects.
+      </td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 ## Building Socrates as a Thinking Partner
@@ -50,7 +99,7 @@ Here's how to do it in three steps.
 
 Before you open a text editor, just write a paragraph about who this person is and how they think. Don't worry about structure yet.
 
-For Socrates it might go something like: *"He believed he knew nothing, which made him the wisest person in the room. He never told anyone what to think. He just asked questions -- precise, uncomfortable, relentless questions -- until you either found the truth yourself or realized you didn't understand what you thought you understood. He called himself a midwife. He didn't create ideas. He helped you birth them."*
+For Socrates it might go something like: *"He believed he knew nothing, which made him the wisest person in the room. He never told anyone what to think. He just asked questions; precise, uncomfortable, relentless questions; until you either found the truth yourself or realized you didn't understand what you thought you understood. He called himself a midwife. He didn't create ideas. He helped you birth them."*
 
 That's your raw material. Now structure it.
 
