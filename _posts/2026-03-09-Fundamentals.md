@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Fundamentals of Enterprise Technology"
-published: false
+published: true
 tags:
   - Technology Leadership
 ---
