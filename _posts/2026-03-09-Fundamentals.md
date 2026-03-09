@@ -118,6 +118,4 @@ Technology organizations operate in an environment where the tools, platforms, a
 
 Because in enterprise technology, the alternative to adaptation is stagnation.
 
-Adapt or die.
-
-[1]: https://www.techtarget.com/searchdatacenter/definition/vendor-lock-in?utm_source=chatgpt.com "What is vendor lock-in? | Definition from TechTarget"
+**Adapt or die.**
