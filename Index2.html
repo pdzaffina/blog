@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Peter Zaffina</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lora:ital,wght@0,400;0,500;1,400;1,500&family=JetBrains+Mono:wght@300;400&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #0a0a0a;
+      --surface: #111111;
+      --border: #222222;
+      --white: #f0ece4;
+      --dim: #6a6660;
+      --gold: #c9a84c;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--white);
+      font-family: 'Lora', Georgia, serif;
+      overflow-x: hidden;
+    }
+
+    ::-webkit-scrollbar { width: 3px; }
+    ::-webkit-scrollbar-track { background: var(--bg); }
+    ::-webkit-scrollbar-thumb { background: var(--gold); }
+
+    /* NAV */
+    nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1.25rem 3rem;
+      background: rgba(10,10,10,0.92);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .nav-mark {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 1.3rem;
+      letter-spacing: 0.12em;
+      color: var(--white);
+      text-decoration: none;
+    }
+
+    .nav-right { display: flex; align-items: center; gap: 2.5rem; }
+    .nav-links { display: flex; gap: 2rem; list-style: none; }
+
+    .nav-links a {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.62rem;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--dim);
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+    .nav-links a:hover { color: var(--white); }
+
+    .nav-cta {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.6rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--bg);
+      background: var(--gold);
+      padding: 0.6rem 1.4rem;
+      text-decoration: none;
+      transition: opacity 0.2s;
+    }
+    .nav-cta:hover { opacity: 0.85; }
+
+    /* HERO */
+    .hero {
+      min-height: 100svh;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      padding: 0 3rem 4rem;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero-bg-text {
+      position: absolute;
+      top: 50%;
+      left: -0.05em;
+      transform: translateY(-50%);
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: clamp(16vw, 22vw, 28vw);
+      line-height: 0.85;
+      color: transparent;
+      -webkit-text-stroke: 1px #1e1e1e;
+      user-select: none;
+      pointer-events: none;
+      z-index: 0;
+      white-space: nowrap;
+    }
+
+    .hero-content { position: relative; z-index: 1; }
+
+    .hero-kicker {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.65rem;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 2rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+    .hero-kicker::before {
+      content: '';
+      width: 2.5rem;
+      height: 1px;
+      background: var(--gold);
+    }
+
+    .hero-headline {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: clamp(4rem, 10vw, 11rem);
+      line-height: 0.92;
+      letter-spacing: 0.02em;
+      color: var(--white);
+    }
+    .hero-headline .line-gold { color: var(--gold); }
+
+    .hero-bottom {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      margin-top: 3rem;
+      padding-top: 2rem;
+      border-top: 1px solid var(--border);
+    }
+
+    .hero-sub {
+      font-size: clamp(0.9rem, 1.3vw, 1.1rem);
+      font-style: italic;
+      color: var(--dim);
+      max-width: 48ch;
+      line-height: 1.7;
+    }
+    .hero-sub strong { color: var(--white); font-style: normal; font-weight: 500; }
+
+    .hero-scroll {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.58rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--dim);
+      writing-mode: vertical-rl;
+      display: flex;
+      align-items: center;
+      gap: 0.8rem;
+    }
+    .hero-scroll::after {
+      content: '';
+      width: 1px;
+      height: 3rem;
+      background: var(--dim);
+    }
+
+
+
+    /* APPROACH */
+    #approach {
+      padding: 7rem 3rem;
+      display: grid;
+      grid-template-columns: 1fr 2fr;
+      gap: 5rem;
+      align-items: start;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .approach-label-wrap { position: sticky; top: 7rem; }
+
+    .section-num {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.58rem;
+      letter-spacing: 0.2em;
+      color: var(--gold);
+      display: block;
+      margin-bottom: 0.6rem;
+    }
+
+    .section-title-side {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: clamp(2.5rem, 4vw, 4rem);
+      line-height: 1;
+      letter-spacing: 0.04em;
+    }
+
+    .approach-body {
+      font-size: clamp(1.05rem, 1.4vw, 1.25rem);
+      line-height: 1.8;
+      color: #c0bdb8;
+    }
+    .approach-body em { color: var(--white); font-style: italic; }
+    .approach-body p + p { margin-top: 1.5rem; }
+
+    /* SERVICES */
+    #services { padding: 0 3rem 7rem; }
+
+    .services-header {
+      padding: 5rem 0 4rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .services-title {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: clamp(3rem, 6vw, 6.5rem);
+      line-height: 0.95;
+      letter-spacing: 0.03em;
+    }
+
+    .services-intro {
+      max-width: 38ch;
+      font-size: 0.88rem;
+      font-style: italic;
+      color: var(--dim);
+      line-height: 1.7;
+      text-align: right;
+    }
+
+    .service-row {
+      display: grid;
+      grid-template-columns: 4rem 1fr 2fr;
+      gap: 3rem;
+      padding: 3.5rem 0;
+      border-bottom: 1px solid var(--border);
+      transition: background 0.25s, padding 0.25s;
+    }
+    .service-row:hover {
+      background: var(--surface);
+      padding-left: 1.5rem;
+      margin: 0 -3rem;
+      padding-right: 3rem;
+    }
+
+    .service-index {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.62rem;
+      letter-spacing: 0.1em;
+      color: var(--gold);
+      padding-top: 0.3rem;
+    }
+
+    .service-name {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: clamp(1.5rem, 2.5vw, 2.4rem);
+      letter-spacing: 0.04em;
+      line-height: 1.1;
+    }
+
+    .service-lead {
+      font-size: 0.95rem;
+      color: #a0a09a;
+      font-style: italic;
+      line-height: 1.7;
+      margin-bottom: 1.2rem;
+    }
+
+    .service-points { list-style: none; display: flex; flex-direction: column; gap: 0.6rem; }
+
+    .service-points li {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.68rem;
+      letter-spacing: 0.04em;
+      color: var(--dim);
+      padding-left: 1.2rem;
+      position: relative;
+      line-height: 1.6;
+    }
+    .service-points li::before {
+      content: '→';
+      position: absolute;
+      left: 0;
+      color: var(--gold);
+      font-size: 0.6rem;
+    }
+
+    /* QUOTE */
+    .quote-divider {
+      background: var(--surface);
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+      padding: 5rem 3rem;
+      display: flex;
+      align-items: center;
+      gap: 3rem;
+    }
+    .quote-mark {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 8rem;
+      line-height: 1;
+      color: var(--border);
+      flex-shrink: 0;
+    }
+    .quote-text {
+      font-size: clamp(1.2rem, 2vw, 1.8rem);
+      font-style: italic;
+      color: var(--white);
+      line-height: 1.5;
+      max-width: 70ch;
+    }
+    .quote-text em { color: var(--gold); font-style: normal; }
+
+    /* CONNECT */
+    #connect {
+      padding: 7rem 3rem;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 6rem;
+      border-top: 1px solid var(--border);
+    }
+
+    .connect-title {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: clamp(3.5rem, 7vw, 8rem);
+      line-height: 0.9;
+      letter-spacing: 0.02em;
+    }
+    .connect-title span { color: var(--gold); }
+
+    .connect-body {
+      font-size: 1rem;
+      color: #a0a09a;
+      font-style: italic;
+      line-height: 1.75;
+      margin: 2rem 0 3rem;
+    }
+
+    .connect-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 1rem;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.68rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--bg);
+      background: var(--white);
+      padding: 1rem 2.5rem;
+      text-decoration: none;
+      transition: background 0.2s;
+    }
+    .connect-btn:hover { background: var(--gold); }
+
+    .connect-right { display: flex; flex-direction: column; justify-content: flex-end; }
+
+    .links-label {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.58rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--dim);
+      margin-bottom: 1.5rem;
+    }
+
+    .link-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 1.1rem 0;
+      border-bottom: 1px solid var(--border);
+      text-decoration: none;
+      color: var(--white);
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 1.4rem;
+      letter-spacing: 0.08em;
+      transition: color 0.2s, padding-left 0.2s;
+    }
+    .link-item:hover { color: var(--gold); padding-left: 1rem; }
+    .link-item .ext { font-family: 'JetBrains Mono', monospace; font-size: 0.6rem; color: var(--dim); }
+
+    /* FOOTER */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 1.8rem 3rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    footer p, footer a {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.58rem;
+      letter-spacing: 0.1em;
+      color: var(--dim);
+      text-decoration: none;
+    }
+    footer a:hover { color: var(--white); }
+
+    /* ANIMATIONS */
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    .hero-kicker   { animation: fadeIn 0.7s ease 0.2s both; }
+    .hero-headline { animation: fadeIn 0.7s ease 0.35s both; }
+    .hero-bottom   { animation: fadeIn 0.7s ease 0.55s both; }
+
+    /* RESPONSIVE */
+    @media (max-width: 860px) {
+      nav { padding: 1rem 1.5rem; }
+      .nav-cta { display: none; }
+      .hero { padding: 0 1.5rem 3rem; }
+      .hero-bottom { flex-direction: column; align-items: flex-start; gap: 2rem; }
+      .hero-scroll { display: none; }
+      #approach { grid-template-columns: 1fr; gap: 2rem; padding: 5rem 1.5rem; }
+      #services { padding: 0 1.5rem 5rem; }
+      .services-header { flex-direction: column; align-items: flex-start; gap: 1.5rem; }
+      .services-intro { text-align: left; }
+      .service-row { grid-template-columns: 3rem 1fr; gap: 1.5rem; }
+      .service-detail { grid-column: 1 / -1; }
+      .quote-divider { padding: 3rem 1.5rem; }
+      .quote-mark { font-size: 4rem; }
+      #connect { grid-template-columns: 1fr; gap: 3rem; padding: 5rem 1.5rem; }
+      footer { padding: 1.5rem; flex-direction: column; gap: 0.5rem; text-align: center; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <a href="index.html" class="nav-mark">Peter Zaffina</a>
+    <div class="nav-right">
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="https://peter.zaffina.net/blog/">Blog</a></li>
+        <li><a href="https://peter.zaffina.net/blog/about/">About</a></li>
+      </ul>
+      <a href="mailto:peter@zaffina.net?subject=Consulting%20Inquiry%20from%20Website" class="nav-cta">Get in touch</a>
+    </div>
+  </nav>
+
+  <section class="hero" id="home">
+    <div class="hero-bg-text">PZ</div>
+    <div class="hero-content">
+      <p class="hero-kicker">Enterprise Technology Advisor</p>
+      <h1 class="hero-headline">
+        <span class="line-gold">Clarity</span><br>
+        Over<br>
+        Complexity
+      </h1>
+      <div class="hero-bottom">
+        <p class="hero-sub">
+          I help enterprise leadership teams <strong>modernize technology and operating models</strong> so they can scale securely and reliably &mdash; without the disruption, vendor dependency, or transformation fatigue that usually comes with large-scale change.
+        </p>
+        <div class="hero-scroll">Scroll</div>
+      </div>
+    </div>
+  </section>
+
+
+
+  <section id="approach">
+    <div class="approach-label-wrap">
+      <span class="section-num">00 / Approach</span>
+      <h2 class="section-title-side">How I<br>Work</h2>
+    </div>
+    <div class="approach-body">
+      <p>My work focuses on <em>executive decision-making, operating model clarity, and governance readiness.</em> I do not operate as an implementer or program manager.</p>
+      <p>I partner with senior leaders and boards at moments where <em>judgment, alignment, and risk management matter most</em> &mdash; where the cost of misalignment exceeds the cost of delay.</p>
+    </div>
+  </section>
+
+  <section id="services">
+    <div class="services-header">
+      <h2 class="services-title">How I<br>Engage</h2>
+      <p class="services-intro">Three focused engagement models, each designed for a specific leadership challenge.</p>
+    </div>
+
+    <div class="service-row">
+      <span class="service-index">01</span>
+      <div class="service-name">Enterprise Technology<br>Operating Model<br>Review</div>
+      <div class="service-detail">
+        <p class="service-lead">A focused review of how technology actually operates across the enterprise, assessed against business strategy, risk posture, and growth objectives.</p>
+        <ul class="service-points">
+          <li>Helps executive teams and boards understand whether their current structure, decision rights, and incentives are enabling progress or quietly increasing exposure.</li>
+          <li>Outcome is a concise executive brief that clarifies structural risks, sources of leverage, and leadership-level actions required to strengthen reliability and accountability.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="service-row">
+      <span class="service-index">02</span>
+      <div class="service-name">Executive Decision<br>Support for<br>Large-Scale Change</div>
+      <div class="service-detail">
+        <p class="service-lead">Strategic advisory support for senior leaders navigating high-stakes technology decisions where the cost of misalignment exceeds the cost of delay.</p>
+        <ul class="service-points">
+          <li>Pressure-test assumptions, surface second-order impacts, and evaluate tradeoffs across platform strategy, sourcing models, and organizational change.</li>
+          <li>Designed to strengthen decision quality and executive confidence during transformation, without introducing additional delivery complexity.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="service-row">
+      <span class="service-index">03</span>
+      <div class="service-name">Board-Level<br>Technology &amp; Risk<br>Readiness</div>
+      <div class="service-detail">
+        <p class="service-lead">Support for executive teams preparing to engage boards on technology posture, investment decisions, and enterprise risk.</p>
+        <ul class="service-points">
+          <li>Translate complex technical realities into clear governance narratives, enabling boards to ask the right questions and executives to communicate with clarity and credibility.</li>
+          <li>The focus is not compliance or reporting, but shared understanding and durable oversight that enables sustained progress.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <div class="quote-divider">
+    <div class="quote-mark">"</div>
+    <p class="quote-text">The work is not about adding complexity &mdash; it is about <em>earning clarity</em> at the moments that matter most.</p>
+  </div>
+
+  <section id="connect">
+    <div class="connect-left">
+      <h2 class="connect-title">Let's<br><span>Talk</span></h2>
+      <p class="connect-body">If you are navigating complexity at the enterprise or board level and value clear judgment grounded in operating experience, I welcome a conversation.</p>
+      <a href="mailto:peter@zaffina.net?subject=Consulting%20Inquiry%20from%20Website" class="connect-btn">Send an inquiry &rarr;</a>
+    </div>
+    <div class="connect-right">
+      <p class="links-label">Find me online</p>
+      <a href="mailto:peter@zaffina.net?subject=Consulting%20Inquiry%20from%20Website" class="link-item">Email <span class="ext">↗</span></a>
+      <a href="https://github.com/pdzaffina" class="link-item" target="_blank" rel="noopener">GitHub <span class="ext">↗</span></a>
+      <a href="https://www.linkedin.com/in/peter-zaffina" class="link-item" target="_blank" rel="noopener">LinkedIn <span class="ext">↗</span></a>
+      <a href="https://peter.zaffina.net/blog/" class="link-item">Blog <span class="ext">↗</span></a>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; Peter Zaffina. All rights reserved.</p>
+  
+  </footer>
+
+</body>
+</html>
