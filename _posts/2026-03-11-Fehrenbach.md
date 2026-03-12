@@ -83,7 +83,3 @@ What I am saying is that there is a cost to consistently divorcing the announcem
 The legions still have to go into the mud. The engineers still have to put their hands on the keyboards. No roadmap, no reorg, no reframe changes that.
 
 Acknowledge the physics. Protect the people doing the work. And when things don't go as announced, be honest about where the accountability actually lives.
-
----
-
-*Peter Purdy is Director of Enterprise Services Engineering at the Choctaw Nation of Oklahoma and runs Tribal Technology, an independent consultancy focused on enterprise technology strategy for tribal-sector and executive clients.*
