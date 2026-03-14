@@ -5,6 +5,7 @@ published: true
 tags:
   - Data
   - AI
+  - AI Strategy
 ---
 
 AI is no longer a technology of the distant future. It is here, and for many businesses, it is already providing a significant competitive advantage. Perhaps your competition is already leveraging its power to optimize operations, predict market trends, or personalize customer experiences.
