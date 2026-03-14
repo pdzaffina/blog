@@ -6,6 +6,7 @@ tags:
   - Data
   - AI
   - Artificial Intelligence
+  - AI Strategy
   - Data Governance
 ---
 
