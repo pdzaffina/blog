@@ -4,6 +4,7 @@ title: "Demystifying AI Strategy: You're Further Along Than You Think"
 published: true
 tags:
   - Artificial Intelligence
+  - AI Strategy
   - Strategy
 ---
 
