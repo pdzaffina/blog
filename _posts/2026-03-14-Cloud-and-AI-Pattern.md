@@ -2,6 +2,7 @@
 layout: post
 title: "You're Doing AI the Same Way You Did Cloud"
 published: true
+ai: true
 tags:
   - AI Strategy 
   - Enterprise Technology
