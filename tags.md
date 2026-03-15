@@ -17,7 +17,7 @@ permalink: /tags/
     {% assign posts_by_date = tag_data[1] | sort: "date" %}
     {% for post in posts_by_date %}
       <li>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} - {{ post.date }}</a>
       </li>
     {% endfor %}
   </ul>
